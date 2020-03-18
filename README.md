@@ -1,4 +1,4 @@
-## Week 1: document crawl
+## Part 1: document crawl
 
 **Outcome: a dataset of web documents covering some chosen topics**
 
@@ -18,9 +18,9 @@ Extract the wikipedia file using bunzip2:
 
 Run the extract_categories.py script, which will return the 50 most frequent categories for your dump file, as well as the associated page titles and external links. The relevant files will be stored in your data/ directory:
 
-   python3 extract_categories.py enwiki-20171103-pages-articles14.xml-p7697599p7744799 
+    python3 extract_categories.py enwiki-20171103-pages-articles14.xml-p7697599p7744799 
 
-Share your categories with everybody by doing a pull request (PR) to the repository.
+Share your category frequency file with everybody by doing a pull request (PR) to the repository. The file to share should be in your data folder, and should be called *wiki[your-file-number]_top_50_categories_freqs.txt*.
 
 Once all PRs have been accepted, you can pull the shared data:
 
@@ -45,6 +45,11 @@ For instance:
 
 At this point, you should have a clean text file containing all the articles relevant to the chosen categories. We will gather all files again to make a clean Wikipedia subcorpus, containing only the categories we are interested in.
 
-Next week, everybody will receive the part of the corpus related to their chosen category.
+Now, everybody should choose a category they would like to 'look after' for the rest of the practicals. Next week, everybody will receive the part of the corpus related to their chosen category.
 
 
+### Feature selection
+
+Which features should we use to generate document representations? We have seen in the course that we can use the n most frequent words in the vocabulary as features, or better, use Mutual Information. Another common way to do this in Information Retrieval is the TF-IDF measure.
+
+Check out the definition of TF-IDF here: [https://en.wikipedia.org/wiki/Tf%E2%80%93idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Can you explain how to use that measure in our setting, where each person is responsible for one Wikipedia category?

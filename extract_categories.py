@@ -2,10 +2,14 @@
 
 import re
 import sys
+import os
 
 def extract_links(out):
     m = re.findall("cite web \|url=(http[^\|]*)",out)
     return m
+
+if not os.path.exists('./data'):
+    os.makedirs('./data')
 
 f = open(sys.argv[1],'r')
 m = re.search("articles([0-9]*)\.",sys.argv[1])
