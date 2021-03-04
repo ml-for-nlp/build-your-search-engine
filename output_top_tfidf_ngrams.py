@@ -29,7 +29,6 @@ cat_tf_idfs = {}
 idfs = {}
 
 for cat in catdirs:
-    print(cat)
     tfs = {}
     sum_freqs = 0
     #print("Processing",filename,"...")

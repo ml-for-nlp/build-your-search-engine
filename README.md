@@ -1,67 +1,56 @@
-## Part 1: document crawl
+# Document classification for Web search
 
-**Outcome: a dataset of web documents covering some chosen topics**
+The basis of a search engine is a collection of documents converted to a machine-readable representation, and classified into broad topics. Imagine doing search on a small set of 1M documents. You might have 100K documents in *computer science* topic, 100K in the *animals* topic, another 100K in a *politics* topic, etc. When a user query comes in, say *How do I learn Python?*, you ideally want to classify the query into the *computer science* topic, so that you only have to search through 100K documents rather than the whole 1M document collection.
 
-
-### Setting up
-
-Clone Wikiextractor in your Wikipedia directory:
-
-    git clone https://github.com/attardi/wikiextractor.git
-
-Extract the wikipedia file using bunzip2:
-
-    bunzip2 <name of wiki file>
+In this practical, we will use Wikipedia to create a small collection of documents on certain topics. We will convert those documents into vectors. And finally, we will test whether a given user query is mapped to the correct topic in the collection.
 
 
-### Getting important categories 
-
-Run the extract_categories.py script, which will return the 50 most frequent categories for your dump file, as well as the associated page titles and external links. The relevant files will be stored in your data/ directory:
-
-    python3 extract_categories.py enwiki-20171103-pages-articles14.xml-p7697599p7744799 
-
-Share your category frequency file with everybody by doing a pull request (PR) to the repository. The file to share should be in your data folder, and should be called *wiki[your-file-number]_top_50_categories_freqs.txt*.
-
-Once all PRs have been accepted, you can pull the shared data:
-
-    git pull
-
-Then, get a summary of the available categories:
-
-    python3 output_top_cats.py > top_50_categories.txt
-
-At this point, we will decide together which categories to keep. A file will be produced recording those categories only, and shared with all. For illustration purposes, let's assume that file has been called *tmp_cat.txt*.
+## Part 1 - gathering some data
 
 
-### Extracting data for chosen categories
-
-Extract text data for the categories in tmp_cat.txt. For this, you will need WikiExtractor:
-
-    python WikiExtractor.py -o - --no_templates --filter_disambig_pages --filter_category <path_of_category_file> <name of wiki xml file> > <save-name>
-
-For instance:
-
-     python wikiextractor/WikiExtractor.py -o - --no_templates --filter_disambig_pages --filter_category tmp_cat.txt enwiki-20171103-pages-articles1.xml-p10p30302 > enwiki-20171103-pages-articles1.txt-p10p30302
-
-At this point, you should have a clean text file containing all the articles relevant to the chosen categories. We will gather all files again to make a clean Wikipedia subcorpus, containing only the categories we are interested in.
-
-Now, everybody should choose a category they would like to 'look after' for the rest of the practicals. Next week, everybody will receive the part of the corpus related to their chosen category.
+### Wikipedia category processing
 
 
-### Feature selection
+We will first retrieve a number of topics from the Wikipedia category tree. We will use the [Wikimedia API](https://www.mediawiki.org/wiki/API:Main_page) for this:
 
-Which features should we use to generate document representations? We have seen in the course that we can use the n most frequent words in the vocabulary as features, or better, use Mutual Information. Another common way to do this in Information Retrieval is the TF-IDF measure.
+   python3 get_categories.py > wiki_categories.txt
 
-Check out the definition of TF-IDF here: [https://en.wikipedia.org/wiki/Tf%E2%80%93idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Can you explain how to use that measure in our setting, where each person is responsible for one Wikipedia category?
+The code returns all Wikipedia categories for which at least 200 documents exist.
+
+In case you have difficulties running the code, you will find an already processed list in the data folder: *data/preprocessed_wiki_categories.txt*.
+
+Open your *wiki_categories.txt* file and scroll through it. Select 10 categories from it. Make sure you don't select categories which look like Wikipedia-internal labels (e.g. `Wikipedia books', `Pages with script errors', etc). Copy and paste those category names into a file named *tmp_cat.txt*. For instance, you might end up with the following:
+
+    Brazilian telenovelas
+    Cold War films
+    Fauna of Zimbabwe
+    Freeware games
+    International law
+    Landscape painters
+    Members of the Chinese Academy of Sciences
+    Musicals based on novels
+    Particle physics
+    21st-century women mathematicians
 
 
-## Part 2 - directing queries to topics
+### Wikipedia page crawl
 
-By now, we should have k categories (corresponding to the work of k students), and the raw Wikipedia text corresponding to those categories, as output by WikiExtractor. The raw text will be stored in different folder of the *data/categories* directory, under a file called *linear.txt*.
+We will now retrieve Wikipedia pages for our categories. We first need a list of page titles for each category. To do so, we will use the API again and run the following:
 
-Our next goal is to see how we can map incoming search queries to each category. The point of this is that, as our search engine grows (to potentially millions, or billions of pages), it would be very inefficient to try and find the answer to a movie-related query in our "gecko and other lizards" category. We want to narrow things down.
+    python3 get_category_pages.py
 
-The repository now contains scripts to compute character ngram frequencies for each category. You can run it doing:
+This will create a file *titles.txt* for each category in your *data/* directory, containing 100 Wikipedia titles for each of the categories in your *tmp_cat.txt* file. We now need to retrieve the text of those documents. To speed things up and in order not to use too much hard disk space, we will just retrieve the intro text of each document rather than the whole page. Run:
+
+    python3 get_page_content.py
+
+This will create a file *linear.txt* for each category in your *data/* directory, containing the introductory text of each Wikipedia page listed in *titles.txt* files. The calls to the Wikipedia API may take a little while, so you can start reading the rest of this page while you wait.
+
+
+## Part 2 - using the data for Web query classification
+
+### Tranforming the data into features
+
+Let's now convert our raw texts into sets of features. We will do this using a vocabulary of character ngrams. The repository contains scripts to compute ngram frequencies for each category. You can run it doing:
 
     python3 ngrams.py [ngram-size]
 
@@ -73,22 +62,35 @@ will create a file in each subfolder of *data/categories*, showing a sorted list
 
 We probably want several ngram sizes. So re-run the script for size 4-6, for instance.
 
+
+### Feature selection
+
+Which of our features should we use to generate document representations? A common way to do this in Information Retrieval is the TF-IDF measure.
+
+Check out the definition of TF-IDF here: [https://en.wikipedia.org/wiki/Tf%E2%80%93idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Can you explain how to use that measure in our setting, where each person is responsible for one Wikipedia category?
+
 Next, we will want to compute the td-idf of each ngram in each category. You can do this by running:
 
     python3 output_top_tfidf_ngrams.py
 
 This will create a *tf_idfs.txt* file in each category subfolder. In addition, the script captures the 100 ngrams with highest tf-idf *for each category* and uses them to generate a set of features, saved in the file *data/vocab.txt*. In essence, what we are doing here is simple feature selection, based on the highest-ranked ngrams across categories.
 
-Now that we have our features, we can build vector representations for each category. If we have ended up with, say, 1500 features in our feature selection step, we will build 1500-dimensional vectors to represent each category, with each component of a vector set to the tf-idf of the relevant dimensions for that category. As an example, if *actor* is the 16th dimension in our 1500-dimensional space, and category *russian_language_films* has a tf-idf of 1.147e-05 for that ngram, then dimension 16 will be set to that number in the *russian_language_film* vector.
+Now that we have our features, we can build vector representations for each category. If we have ended up with 1000 features in our feature selection step, we will build 1000-dimensional vectors to represent each category, with each component of a vector set to the tf-idf of the relevant dimensions for that category. As an example, if *actor* is the 16th dimension in our 1000-dimensional space, and category *russian_language_films* has a tf-idf of 1.147e-05 for that ngram, then dimension 16 will be set to that number in the *russian_language_film* vector.
 
 You can create your category vectors with
 
     python3 mk_cat_vectors.py
 
-And now... finally. The test! The file *query_file.txt* contains a set of queries (massaged to match the 2020 categories you have extracted!) You can add to that file, one query per line. We want to see whether the system finds the right category for each query. Run the following:
+## Mapping queries to topics
+
+Our final goal for now is to see how we can map incoming search queries to each category. The point of this is that, as our search engine grows (to potentially millions, or billions of pages), it would be very inefficient to try and find the answer to a movie-related query in our "gecko and other lizards" category. We want to narrow things down.
+
+So let's test this. The file *query_file.txt* contains some sample queries. You should change this file and write down queries corresponding to the categories you selected, one query per line. We want to see whether the system finds the right category for each query. Run the following:
 
     python3 classify.py query_file.txt
 
 and you will return a ranked list of categories for each query. You of course want to most relevant categories at the top.
 
 Play with the *classify.py* script, and with adding queries to the file. What works, what doesn't? Why?
+
+ 
