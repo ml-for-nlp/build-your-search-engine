@@ -13,11 +13,9 @@ In this practical, we will use Wikipedia to create a small collection of documen
 
 We will first retrieve a number of topics from the Wikipedia category tree. We will use the [Wikimedia API](https://www.mediawiki.org/wiki/API:Main_page) for this:
 
-   python3 get_categories.py > wiki_categories.txt
+    python3 get_categories.py
 
-The code returns all Wikipedia categories for which at least 200 documents exist.
-
-In case you have difficulties running the code, you will find an already processed list in the data folder: *data/preprocessed_wiki_categories.txt*.
+The code will write out all Wikipedia categories for which at least 200 documents exist, creating the file *wiki_categories.txt*. (It takes a minute or two, so be patient! In case you have difficulties running the code, you will find an already processed list in the data folder: *data/preprocessed_wiki_categories.txt*.)
 
 Open your *wiki_categories.txt* file and scroll through it. Select 10 categories from it. Make sure you don't select categories which look like Wikipedia-internal labels (e.g. `Wikipedia books', `Pages with script errors', etc). Copy and paste those category names into a file named *tmp_cat.txt*. For instance, you might end up with the following:
 
@@ -47,6 +45,8 @@ This will create a file *linear.txt* for each category in your *data/* directory
 
 
 ## Part 2 - using the data for Web query classification
+
+Before carrying on, check the files that have been created in the data processing step. This will give you an idea of the documents you have in your collection.
 
 ### Tranforming the data into features
 

@@ -1,14 +1,5 @@
 #!/usr/bin/python3
 
-"""
-    get_allcategories.py
-
-    MediaWiki API Demos
-    Demo of `Allcategories` module: Get all categories, starting from a
-    certain point, as ordered by category title.
-
-    MIT License
-"""
 
 import requests
 import re
@@ -25,6 +16,8 @@ PARAMS = {
     "aclimit": 500
 }
 
+f = open("wiki_categories.txt",'w')
+
 for i in range(100):
     R = S.get(url=URL, params=PARAMS)
     DATA = R.json()
@@ -36,9 +29,11 @@ for i in range(100):
         m = re.search("[0-9]{4}",cat_name)
         #if cat_name[-6:] not in ['births','deaths']:
         if not m:
-            print(cat_name)
+            f.write(cat_name+'\n')
     
     if "continue" in DATA:
         PARAMS["acfrom"] = DATA["continue"]["accontinue"]
     else:
         break
+
+f.close()

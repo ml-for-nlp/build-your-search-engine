@@ -29,7 +29,7 @@ URL = "https://en.wikipedia.org/w/api.php"
 categories = read_categories()
 
 for cat in categories:
-    print(cat)
+    print("Processing category".cat)
     cat_dir = "data/categories/"+cat.replace(' ','_')
     title_file = os.path.join(cat_dir,"titles.txt")
     IDs, titles = read_titles(title_file)
@@ -49,7 +49,6 @@ for cat in categories:
 
         R = S.get(url=URL, params=PARAMS)
         DATA = R.json()
-        print(DATA)
 
         PAGES = DATA["query"]["pages"]
 
