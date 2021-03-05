@@ -29,7 +29,7 @@ URL = "https://en.wikipedia.org/w/api.php"
 categories = read_categories()
 
 for cat in categories:
-    print("Processing category".cat)
+    print("Processing category",cat)
     cat_dir = "data/categories/"+cat.replace(' ','_')
     title_file = os.path.join(cat_dir,"titles.txt")
     IDs, titles = read_titles(title_file)
