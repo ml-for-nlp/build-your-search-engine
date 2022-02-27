@@ -17,7 +17,7 @@ We will first retrieve a number of topics from the Wikipedia category tree. We w
 
 The code will write out all Wikipedia categories for which at least 200 documents exist, creating the file *wiki_categories.txt*. (It takes a minute or two, so be patient! In case you have difficulties running the code, you will find an already processed list in the data folder: *data/preprocessed_wiki_categories.txt*.)
 
-Open your *wiki_categories.txt* file and scroll through it. Select 10 categories from it. Make sure you don't select categories which look like Wikipedia-internal labels (e.g. `Wikipedia books', `Pages with script errors', etc). Copy and paste those category names into a file named *tmp_cat.txt*. For instance, you might end up with the following:
+Open your *wiki_categories.txt* file and scroll through it. Select 10 categories from it. Make sure you don't select categories which look like Wikipedia-internal labels (e.g. `Wikipedia books', `Pages with script errors', etc). Copy and paste those category names into a file named *tmp_cat.txt* in the top directory of the repo. For instance, you might end up with the following:
 
     Brazilian telenovelas
     Cold War films
@@ -67,9 +67,7 @@ We probably want several ngram sizes. So re-run the script for size 4-6, for ins
 
 Which of our features should we use to generate document representations? A common way to do this in Information Retrieval is the TF-IDF measure.
 
-Check out the definition of TF-IDF here: [https://en.wikipedia.org/wiki/Tf%E2%80%93idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Can you explain how to use that measure in our setting, where each person is responsible for one Wikipedia category?
-
-Next, we will want to compute the td-idf of each ngram in each category. You can do this by running:
+To compute the td-idf of each ngram in each category, run:
 
     python3 output_top_tfidf_ngrams.py
 
@@ -94,3 +92,6 @@ and you will return a ranked list of categories for each query. You of course wa
 Play with the *classify.py* script, and with adding queries to the file. What works, what doesn't? Why?
 
  
+## Open-ended project
+
+Can you finish your mini search engine and make it return actual documents in response to a query?
