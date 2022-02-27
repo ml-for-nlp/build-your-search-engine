@@ -48,7 +48,7 @@ This will create a file *linear.txt* for each category in your *data/* directory
 
 Before carrying on, check the files that have been created in the data processing step. This will give you an idea of the documents you have in your collection.
 
-### Tranforming the data into features
+### Transforming the data into features
 
 Let's now convert our raw texts into sets of features. We will do this using a vocabulary of character ngrams. The repository contains scripts to compute ngram frequencies for each category. You can run it doing:
 
@@ -78,6 +78,12 @@ Now that we have our features, we can build vector representations for each cate
 You can create your category vectors with
 
     python3 mk_cat_vectors.py
+
+You can inspect your vectors by running *less* in the terminal:
+
+    less data/category_vectors.txt
+
+(Press 'q' to exit.)
 
 ## Mapping queries to topics
 
