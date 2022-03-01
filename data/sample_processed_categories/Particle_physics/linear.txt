@@ -1,0 +1,1294 @@
+<doc id="30778041" title="Particle">
+In the physical sciences, a particle (or corpuscule in older texts) is a small localized object to which can be ascribed several physical or chemical properties such as volume, density or mass. They vary greatly in size or quantity, from subatomic particles like the electron, to microscopic particles like atoms and molecules, to macroscopic particles like powders and other granular materials. Particles can also be used to create scientific models of even larger objects depending on their density, such as humans moving in a crowd or celestial bodies in motion.
+The term 'particle' is rather general in meaning, and is refined as needed by various scientific fields. Anything that is composed of particles may be referred to as being particulate. However, the noun 'particulate' is most frequently used to refer to pollutants in the Earth's atmosphere, which are a suspension of unconnected particles, rather than a connected particle aggregation.
+<\doc>
+<doc id="8489464" title="331 model">
+The 331 model in particle physics is an extension of the electroweak gauge symmetry which offers an explanation of why there must be three families of quarks and leptons. The name "331" comes from the full gauge symmetry group 
+  
+    
+      
+        S
+        U
+        (
+        3
+        
+          )
+          
+            C
+          
+        
+        ×
+        S
+        U
+        (
+        3
+        
+          )
+          
+            L
+          
+        
+        ×
+        U
+        (
+        1
+        
+          )
+          
+            X
+          
+        
+        
+      
+    
+    {\displaystyle SU(3)_{C}\times SU(3)_{L}\times U(1)_{X}\,}
+  .
+<\doc>
+<doc id="16597366" title="Acoplanarity">
+In particle physics, the acoplanarity of a scattering experiment measures the degree to which the paths of the scattered particles deviate from being coplanar. Measurements of acoplanarity provide a test of perturbative quantum chromodynamics, because QCD predicts that the emission of gluons can lead to acoplanar scattering events.
+<\doc>
+<doc id="1524630" title="Alternatives to the Standard Higgs Model">
+The Alternative models to the Standard Higgs Model are models which are considered by many particle physicists to solve some of the Higgs boson's existing problems. Two of the most currently researched models are quantum triviality, and Higgs hierarchy problem.
+<\doc>
+<doc id="346133" title="Annihilation">
+In particle physics, annihilation is the process that occurs when a subatomic particle collides with its respective antiparticle to produce other particles, such as an electron colliding with a positron to produce two photons. The total energy and momentum of the initial pair are conserved in the process and distributed among a set of other particles in the final state. Antiparticles have exactly opposite additive quantum numbers from particles, so the sums of all quantum numbers of such an original pair are zero. Hence, any set of particles may be produced whose total quantum numbers are also zero as long as conservation of energy and conservation of momentum are obeyed.During a low-energy annihilation, photon production is favored, since these particles have no mass. However, high-energy particle colliders produce annihilations where a wide variety of exotic heavy particles are created.
+The word "annihilation" takes use informally for the interaction of two particles that are not mutual antiparticles –  not charge conjugate. Some quantum numbers may then not sum to zero in the initial state, but conserve with the same totals in the final state. An example is the "annihilation" of a high-energy electron antineutrino with an electron to produce a W−.
+If the annihilating particles are composite, such as mesons or baryons, then several different particles are typically produced in the final state.
+
+
+<\doc>
+<doc id="9913028" title="Annihilation radiation">
+Annihilation radiation is a term used in Gamma spectroscopy for the photon radiation produced when a particle and its antiparticle collide and annihilate.  Most commonly, this refers to 511-keV photons produced by an electron interacting with a positron. These photons are frequently referred to as gamma rays, despite having their origin outside the nucleus, due to unclear distinctions between types of photon radiation. 
+
+Annihilation radiation is not monoenergetic, unlike gamma rays produced by radioactive decay.  The production mechanism of annihilation radiation introduces Doppler broadening.  The annihilation peak produced in a photon spectrum by annihilation radiation therefore has a higher full width at half maximum (FWHM) than decay-generated gamma rays in spectrum.  The difference is more apparent with high resolution detectors, such as Germanium detectors, than with low resolution detectors such as Sodium iodide detectors.
+Because of their well-defined energy (511 keV) and characteristic, Doppler-broadened shape, annihilation radiation can often be useful in defining the energy calibration of a gamma ray spectrum.
+<\doc>
+<doc id="9366136" title="Anomalous electric dipole moment">
+In particle physics, the anomalous electric dipole moment, or the electric dipole moment of a particle in short, is the electric dipole moment of a particle. There is a symmetry, the CP symmetry, which if exact and unbroken will predict an exactly zero electric dipole moment for particles. However, we know at least in the Yukawa sector from neutral kaon oscillations that CP is broken. Experiments have been performed to measure the electric dipole moment of various particles like the electron and the neutron. Many models beyond the standard model with additional CP-violating terms generically predict a nonzero electric dipole moment and are hence sensitive to such new physics. Instanton corrections from a nonzero θ term in quantum chromodynamics predict a nonzero electric dipole moment for the neutron (it is easier to measure the electric dipole moment in a neutral particle) which have not been observed. This is the strong CP problem and is a prediction of chiral perturbation theory.
+<\doc>
+<doc id="1317" title="Antimatter">
+In modern physics, antimatter is defined as matter that is composed of the antiparticles (or "partners") of the corresponding particles of "ordinary" matter. Minuscule numbers of antiparticles are generated daily at particle accelerators – total production has been only a few nanograms (ng)– and in natural processes like cosmic ray collisions and some types of radioactive decay, but only a tiny fraction of these have successfully been bound together in experiments to form anti-atoms. No macroscopic amount of antimatter has ever been assembled due to the extreme cost and difficulty of production and handling.
+Theoretically, a particle and its anti-particle (for example, a proton and an antiproton) have the same mass, but opposite electric charge, and other differences in quantum numbers. For example, a proton has positive charge while an antiproton has negative charge.
+A collision between any particle and its anti-particle partner leads to their mutual annihilation, giving rise to various proportions of intense photons (gamma rays), neutrinos, and sometimes less-massive particle–antiparticle pairs. The majority of the total energy of annihilation emerges in the form of ionizing radiation. If surrounding matter is present, the energy content of this radiation will be absorbed and converted into other forms of energy, such as heat or light. The amount of energy released is usually proportional to the total mass of the collided matter and antimatter, in accordance with the notable mass–energy equivalence equation, E=mc2.Antimatter particles bind with each other to form antimatter, just as ordinary particles bind to form normal matter. For example, a positron (the antiparticle of the electron) and an antiproton (the antiparticle of the proton) can form an antihydrogen atom. The nuclei of antihelium have been artificially produced, albeit with difficulty, and are the most complex anti-nuclei so far observed. Physical principles indicate that complex antimatter atomic nuclei are possible, as well as anti-atoms corresponding to the known chemical elements.
+There is strong evidence that the observable universe is composed almost entirely of ordinary matter, as opposed to an equal mixture of matter and antimatter. This asymmetry of matter and antimatter in the visible universe is one of the great unsolved problems in physics. The process by which this inequality between matter and antimatter particles developed is called baryogenesis.
+
+
+<\doc>
+<doc id="3074037" title="ARGUS distribution">
+In physics, the ARGUS distribution, named after the particle physics experiment ARGUS, is the probability distribution of the reconstructed invariant mass of a decayed particle candidate in continuum background.
+<\doc>
+<doc id="3522161" title="Askaryan radiation">
+The Askaryan radiation  also known as Askaryan effect is the phenomenon whereby a particle traveling faster than the phase velocity of light in a dense dielectric (such as salt, ice or the lunar regolith) produces a shower of secondary charged particles which contain a charge anisotropy and thus emits a cone of coherent radiation in the radio or microwave part of the electromagnetic spectrum. It is similar to the Cherenkov radiation. It is named after Gurgen Askaryan, a Soviet-Armenian physicist who postulated it in 1962.
+The radiation was first observed experimentally in 2000, 38 years after its theoretical prediction. So far the effect has been observed in silica sand, rock salt, ice, and Earth's atmosphere.The effect is of primary interest in using bulk matter to detect ultra-high energy neutrinos. The Antarctic Impulse Transient Antenna (ANITA) experiment uses antennas attached to a balloon flying over Antarctica to detect the Askaryan radiation produced as cosmic neutrinos travel through the ice. Several experiments have also used the Moon as a neutrino detector based on detection of the Askaryan radiation.
+
+
+<\doc>
+<doc id="7035802" title="Astroparticle physics">
+Astroparticle physics, also called particle astrophysics, is a branch of particle physics that studies elementary particles of astronomical origin and their relation to astrophysics and cosmology. It is a relatively new field of research emerging at the intersection of particle physics, astronomy, astrophysics, detector physics, relativity, solid state physics, and cosmology. Partly motivated by the discovery of neutrino oscillation, the field has undergone rapid development, both theoretically and experimentally, since the early 2000s.
+
+
+<\doc>
+<doc id="1629320" title="Attenuation length">
+In physics, the attenuation length or absorption length is the distance 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   into a material when the probability has dropped to 
+  
+    
+      
+        1
+        
+          /
+        
+        e
+      
+    
+    {\displaystyle 1/e}
+   that a particle has not been absorbed.  Alternatively, if there is a beam of particles incident on the material, the attenuation length is the distance where the intensity of the beam has dropped to 
+  
+    
+      
+        1
+        
+          /
+        
+        e
+      
+    
+    {\displaystyle 1/e}
+  , or about 63% of the particles have been stopped. 
+Mathematically, the probability of finding a particle at depth x into the material is calculated by Beer-Lambert law:
+
+  
+    
+      
+        P
+        (
+        x
+        )
+        =
+        
+          e
+          
+            −
+            x
+            
+              /
+            
+            λ
+          
+        
+        
+        
+      
+    
+    {\displaystyle P(x)=e^{-x/\lambda }\!\,}
+  .In general 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   is material and energy dependent.
+<\doc>
+<doc id="2685968" title="Attophysics">
+Attophysics  also known as attoscience is a branch of physics wherein attosecond (10−18 s) duration pulses of electrons or photons are used to probe dynamic processes in matter with unprecedented time resolution.[1] The majority of attoscience employs pump–probe methods.
+One of the primary goals of attosecond science is to provide more insights into the dynamics of electrons in molecules.[2]Today, attophysicists mostly study molecular phenomena, such as how a particular protein breaks down under X-ray bombardment.
+<\doc>
+<doc id="5489639" title="Available energy (particle collision)">
+In particle physics, the available energy is the energy in a particle collision available to produce new matter from the kinetic energy of the colliding particles.
+Threshold energy
+Matter creation
+<\doc>
+<doc id="7290910" title="B–Bbar oscillation">
+Neutral B meson oscillations (or B–B oscillations) is one of the manifestations of the neutral particle oscillation, a fundamental prediction of the Standard Model of particle physics. It is the phenomenon of B mesons changing (or oscillating) between their matter and antimatter forms before their decay. The Bs meson can exist as either a bound state of a strange antiquark and a bottom quark, or a strange quark and bottom antiquark. The oscillations in the neutral B sector are analogous to the phenomena that produces long and short-lived neutral kaons.
+Bs–Bs mixing was observed by the CDF experiment at Fermilab in 2006 and by LHCb at CERN in 2011.
+<\doc>
+<doc id="474107" title="BaBar experiment">
+The BaBar experiment, or simply BaBar, is an international collaboration of more than 500 physicists and engineers studying the subatomic world at energies of approximately ten times the rest mass of a proton (~10 GeV). Its design was motivated by the investigation of charge-parity violation. BaBar is located at the SLAC National Accelerator Laboratory, which is operated by Stanford University for the Department of Energy in California.
+<\doc>
+<doc id="71469" title="Barn (unit)">
+A barn (symbol: b) is a metric unit of area equal to 10−28 m2 (100 fm2). Originally used in nuclear physics for expressing the cross sectional area of nuclei and nuclear reactions, today it is also used in all fields of high-energy physics to express the cross sections of any scattering process, and is best understood as a measure of the probability of interaction between small particles. A barn is  approximately the cross-sectional area of a uranium nucleus. The barn is also the unit of area used in nuclear quadrupole resonance and nuclear magnetic resonance to quantify the interaction of a nucleus with an electric field gradient. While the barn never was an SI unit, the SI standards body acknowledged it in the 8th SI Brochure (superseded in 2019) due to its use in particle physics.
+<\doc>
+<doc id="462396" title="Baryogenesis">
+In physical cosmology, baryogenesis is the physical process that is hypothesized to have taken place during the early universe to produce baryonic asymmetry, i.e. the imbalance of matter (baryons) and antimatter (antibaryons) in the observed universe.One of the outstanding problems in modern physics is the predominance of matter over antimatter in the universe. The universe, as a whole, seems to have a nonzero positive baryon number density – that is, matter exists. Since it is assumed in cosmology that the particles we see were created using the same physics we measure today, it would normally be expected that the overall baryon number should be zero, as matter and antimatter should have been created in equal amounts. This has led to a number of proposed mechanisms for symmetry breaking that favour the creation of normal matter (as opposed to antimatter) under certain conditions. This imbalance would have been exceptionally small, on the order of 1 in every 10000000000 (1010) particles a small fraction of a second after the Big Bang, but after most of the matter and antimatter annihilated, what was left over was all the baryonic matter in the current universe, along with a much greater number of bosons. Experiments reported in 2010 at Fermilab, however, seem to show that this imbalance is much greater than previously assumed. In an experiment involving a series of particle collisions, the amount of generated matter was approximately 1% larger than the amount of generated antimatter. The reason for this discrepancy is yet unknown.Most grand unified theories explicitly break the baryon number symmetry, which would account for this discrepancy, typically invoking reactions mediated by very massive X bosons (X) or massive Higgs bosons (H0). The rate at which these events occur is governed largely by the mass of the intermediate X or H0 particles, so by assuming these reactions are responsible for the majority of the baryon number seen today, a maximum mass can be calculated above which the rate would be too slow to explain the presence of matter today. These estimates predict that a large volume of material will occasionally exhibit a spontaneous proton decay, which has not been observed. Therefore, the imbalance between matter and antimatter remains a mystery.
+Baryogenesis theories are based on different descriptions of the interaction between fundamental particles. Two main theories are electroweak baryogenesis (standard model), which would occur during the electroweak epoch, and the GUT baryogenesis, which would occur during or shortly after the grand unification epoch. Quantum field theory and statistical physics are used to describe such possible mechanisms.
+Baryogenesis is followed by primordial nucleosynthesis, when atomic nuclei began to form.
+<\doc>
+<doc id="4584" title="Baryon">
+In particle physics, a baryon is a type of composite subatomic particle which contains an odd number of valence quarks (at least 3). Baryons belong to the hadron family of particles; hadrons are composed of quarks. Baryons are also classified as fermions because they have half-integer spin.
+The name "baryon", introduced by Abraham Pais, comes from the Greek word for "heavy" (βαρύς, barýs), because, at the time of their naming, most known elementary particles had lower masses than the baryons. Each baryon has a corresponding antiparticle (antibaryon) where their corresponding antiquarks replace quarks. For example, a proton is made of two up quarks and one down quark; and its corresponding antiparticle, the antiproton, is made of two up antiquarks and one down antiquark.
+Because they are composed of quarks, baryons participate in the strong interaction, which is mediated by particles known as gluons. The most familiar baryons are protons and neutrons, both of which contain three quarks, and for this reason they are sometimes called triquarks.  These particles make up most of the mass of the visible matter in the universe and compose the nucleus of every atom. (Electrons, the other major component of the atom, are members of a different family of particles called leptons; leptons do not interact via the strong force.) Exotic baryons containing five quarks, called pentaquarks, have also been discovered and studied.
+A census of the Universe's baryons indicates that 10% of them could be found inside galaxies, 50 to 60% in the circumgalactic medium, and the remaining 30 to 40% could be located in the warm–hot intergalactic medium (WHIM).
+
+
+<\doc>
+<doc id="349735" title="Baryon number">
+In particle physics, the baryon number is a strictly conserved additive quantum number of a system. It is defined as
+
+  
+    
+      
+        B
+        =
+        
+          
+            1
+            3
+          
+        
+        
+          (
+          
+            
+              n
+              
+                q
+              
+            
+            −
+            
+              n
+              
+                
+                  
+                    q
+                    ¯
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle B={\frac {1}{3}}\left(n_{\text{q}}-n_{\bar {\text{q}}}\right),}
+  where nq is the number of quarks, and nq is the number of antiquarks. Baryons (three quarks) have a baryon number of +1, mesons (one quark, one antiquark) have a baryon number of 0, and antibaryons (three antiquarks) have a baryon number of −1. Exotic hadrons like pentaquarks (four quarks, one antiquark) and tetraquarks (two quarks, two antiquarks) are also classified as baryons and mesons depending on their baryon number.
+
+
+<\doc>
+<doc id="38064001" title="Beamstrahlung">
+Beamstrahlung (from beam + bremsstrahlung ) is the radiation from one beam of charged particles in storage rings , linear or circular colliders , namely the synchrotron radiation emitted due to the electromagnetic field of the opposing beam.  Coined by J. Rees in 1978.It is a source of radiation loss in colliders, more specifically a type of synchrotron radiation and because of that a beam particle is lost whenever, during the collision, it radiates a photon (or photons) of an energy high enough that the emittance particle falls outside the momentum acceptance. Furthermore, with a non-zero dispersion at the interaction point, beamstrahlung can also affect the transverse beam emittance, which can either be due to incompletely corrected beam optics errors or be intentionally introduced for the purpose of reducing the centre-of-mass energy spread for monochromatization.
+<\doc>
+<doc id="49629857" title="Belle II experiment">
+The Belle II experiment is a particle physics experiment designed to study the properties of B mesons (heavy particles containing a bottom quark). Belle II is the successor to the Belle experiment, and is currently being commissioned at the SuperKEKB accelerator complex at KEK in Tsukuba, Ibaraki Prefecture, Japan. The Belle II detector was "rolled in" (moved into the collision point of SuperKEKB) in April 2017. Belle II started taking data in early 2018. Over its running period, Belle II is expected to collect around 50 times more data than its predecessor due mostly to a factor 40 increase in instantaneous luminosity provided by SuperKEKB over the original KEKB accelerator.
+<\doc>
+<doc id="5434910" title="Bonner sphere">
+A Bonner sphere is a device used to determine the energy spectrum of a neutron beam.  The method was first described in 1960 by Rice University's Bramblett, Ewing and Tom W. Bonner and employs thermal neutron detectors embedded in moderating spheres of different sizes.  Comparison of the neutrons detected by each sphere allows accurate determination of the neutron energy.  This detector system utilizes a few channel unfolding techniques to determine the coarse, few group neutron spectrum.  The original detector system was capable of measuring neutrons between thermal energies up to ~20 MeV.  These detectors have been modified to provide additional resolution above 20 MeV to energies up to 1 GeV.
+<\doc>
+<doc id="3559814" title="Bootstrap model">
+The term "bootstrap model" is used for a class of theories that use very general consistency criteria to determine the form of a quantum theory from some assumptions on the spectrum of particles. It is a form of S-matrix theory.
+
+
+<\doc>
+<doc id="22914634" title="Bose–Einstein correlations">
+In physics, Bose–Einstein correlations are correlations between identical bosons. They have important applications in astronomy, optics, particle and nuclear physics.
+
+
+<\doc>
+<doc id="3476702" title="Bragg peak">
+The Bragg peak is a pronounced peak on the Bragg curve which plots the energy loss of ionizing radiation during its travel through matter. For protons, α-rays, and other ion rays, the peak occurs immediately before the particles come to rest. This is called Bragg peak, after William Henry Bragg who discovered it in 1903.When a fast charged particle moves through matter, it ionizes atoms of the material and deposits a dose along its path. A peak occurs because the interaction cross section increases as the charged particle's energy decreases. Energy lost by charged particles is inversely proportional to the square of their velocity, which explains the peak occurring just before the particle comes to a complete stop. In the upper figure, it is the peak for alpha particles of 5.49 MeV moving through air. In the lower figure, it is the narrow peak of the "native" proton beam curve which is produced by a particle accelerator of 250 MeV. The figure also shows the absorption of a beam of energetic photons (X-rays) which is entirely different in nature; the curve is mainly exponential.
+
+The phenomenon is exploited in particle therapy of cancer, to concentrate the effect of light ion beams on the tumor being treated while minimizing the effect on the surrounding healthy tissue.The blue curve in the figure ("modified proton beam") shows how the originally monoenergetic proton beam with the sharp peak is widened by increasing the range of energies, so that a larger tumor volume can be treated. This can be achieved by using variable thickness attenuators like spinning wedges.
+
+
+<\doc>
+<doc id="1100094" title="Branching fraction">
+In particle physics and nuclear physics, the branching fraction (or branching ratio) for a decay is the fraction of particles which decay by an individual decay mode with respect to the total number of particles which decay. It is equal to the ratio of the partial decay constant to the overall decay constant. Sometimes a partial half-life is given, but this term is misleading; due to competing modes it is not true that half of the particles will decay through a particular decay mode after its partial half-life. The partial half-life is merely an alternate way to specify the partial decay constant λ, the two being related through:
+
+  
+    
+      
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            λ
+          
+        
+        .
+      
+    
+    {\displaystyle t_{1/2}={\frac {\ln 2}{\lambda }}.}
+  For example, for spontaneous decays of 132Cs, 98.1% are ε or β+ decays, and 1.9% are β− decays. The partial decay constants can be calculated from the branching fraction and the half-life of 132Cs (6.479 d), they are: 0.10 d−1 (ε + β+) and 0.0020 d−1 (β−). The partial half-lives are 6.60 d (ε + β+) and 341 d (β−). Here the problem with the term partial half-life is evident: after (341+6.60) days almost all the nuclei will have decayed, not only half as one may initially think.
+Isotopes with significant branching of decay modes include copper-64, arsenic-74, rhodium-102, indium-112, iodine-126 and holmium-164.
+
+
+<\doc>
+<doc id="495614" title="Brane cosmology">
+Brane cosmology refers to several theories in particle physics and cosmology related to string theory, superstring theory and M-theory.
+<\doc>
+<doc id="60355556" title="Buffer-gas trap">
+The buffer-gas trap (BGT) is a device used to accumulate positrons (the antiparticles of electrons) efficiently while minimizing positron loss due to annihilation, which occurs when an electron and positron collide and the energy is converted to gamma rays. The BGT is used for a variety of research applications, particularly those that benefit from specially tailored positron gases, plasmas and/or pulsed beams.
+<\doc>
+<doc id="2117631" title="Bunching parameter">
+In statistics as applied in particular in particle physics, when fluctuations of some observables are measured,
+it is convenient to transform the multiplicity distribution to the bunching parameters:
+
+  
+    
+      
+        
+          η
+          
+            q
+          
+        
+        =
+        
+          
+            q
+            
+              q
+              −
+              1
+            
+          
+        
+        
+          
+            
+              
+                P
+                
+                  q
+                
+              
+              
+                P
+                
+                  q
+                  −
+                  2
+                
+              
+            
+            
+              P
+              
+                q
+                −
+                1
+              
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \eta _{q}={\frac {q}{q-1}}{\frac {P_{q}P_{q-2}}{P_{q-1}^{2}}},}
+  where 
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+      
+    
+    {\displaystyle P_{n}}
+   is probability of observing
+
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   objects inside of some phase space regions.
+The bunching parameters measure deviations of
+the multiplicity distribution 
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+      
+    
+    {\displaystyle P_{n}}
+  
+from a Poisson distribution, since
+for this distribution
+
+  
+    
+      
+        
+          η
+          
+            q
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \eta _{q}=1}
+  .Uncorrelated particle production leads
+to the Poisson statistics, thus
+deviations of the bunching parameters from the Poisson values
+mean correlations between particles and dynamical fluctuations.
+Normalised factorial moments
+have also similar properties.
+They are defined as 
+
+  
+    
+      
+        
+          F
+          
+            q
+          
+        
+        =
+        ⟨
+        n
+        
+          ⟩
+          
+            −
+            q
+          
+        
+        
+          ∑
+          
+            n
+            =
+            q
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              n
+              !
+            
+            
+              (
+              n
+              −
+              q
+              )
+              !
+            
+          
+        
+        
+          P
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle F_{q}=\langle n\rangle ^{-q}\sum _{n=q}^{\infty }{\frac {n!}{(n-q)!}}P_{n}.}
+<\doc>
+<doc id="1083721" title="Cabibbo–Kobayashi–Maskawa matrix">
+In the Standard Model of particle physics, the Cabibbo–Kobayashi–Maskawa matrix, CKM matrix, quark mixing matrix, or KM matrix is a unitary matrix which contains information on the strength of the flavour-changing weak interaction. Technically, it specifies the mismatch of quantum states of quarks when they propagate freely and when they take part in the weak interactions. It is important in the understanding of CP violation. This matrix was introduced for three generations of quarks by Makoto Kobayashi and Toshihide Maskawa, adding one generation to the matrix previously introduced by Nicola Cabibbo. This matrix is also an extension of the GIM mechanism, which only includes two of the three current families of quarks.
+<\doc>
+<doc id="2900052" title="Calorimeter (particle physics)">
+In particle physics, a calorimeter is an experimental apparatus that measures the energy of particles.  Most particles enter the calorimeter and initiate a particle shower  and the particles' energy is deposited in the calorimeter, collected, and measured. The energy may be measured in its entirety, requiring total containment of the particle shower, or it may be sampled. Typically, calorimeters are segmented transversely to provide information about the direction of the particle or particles, as well as the energy deposited, and longitudinal segmentation can provide information about the identity of the particle based on the shape of the shower as it develops. Calorimetry design is an active area of research in particle physics.
+
+
+<\doc>
+<doc id="62745033" title="Center for the Fundamental Laws of Nature">
+The Center for the Fundamental Laws of Nature is a research center at Harvard University that focuses on theoretical particle physics and cosmology.
+<\doc>
+<doc id="24383048" title="Cherenkov radiation">
+Cherenkov radiation (; Russian: Черенков) is electromagnetic radiation emitted when a charged particle (such as an electron) passes through a dielectric medium at a speed greater than the phase velocity (speed of propagation of a wave in a medium) of light in that medium. Special relativity is not violated since light travels slower in materials with refractive index greater than one, and it is the speed of light in a vacuum which cannot be exceeded (or reached) by particles with mass. A classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor. Its cause is similar to the cause of a sonic boom, the sharp sound heard when faster-than-sound movement occurs. The phenomenon is named for Soviet physicist Pavel Cherenkov, who shared the 1958 Nobel Prize in Physics for its discovery.
+
+
+<\doc>
+<doc id="5011779" title="Channelling (physics)">
+Channelling is the process that constrains the path of a charged particle in a crystalline solid.Many physical phenomena can occur when a charged particle is incident upon a solid target, e.g., elastic scattering, inelastic energy-loss processes, secondary-electron emission, electromagnetic radiation, nuclear reactions, etc. All of these processes have cross sections which depend on the impact parameters involved in collisions with individual target atoms. When the target material is homogeneous and isotropic, the impact-parameter distribution is independent of the orientation of the momentum of the particle and interaction processes are also orientation-independent. When the target material is monocrystalline, the yields of physical processes are very strongly dependent on the orientation of the momentum of the particle relative to the crystalline axes or planes. Or in other words, the stopping power of the particle is much lower in certain directions than others. This effect is commonly called the "channelling" effect. It is related to other orientation-dependent effects, such as particle diffraction. These relationships will be discussed in detail later.
+<\doc>
+<doc id="488140" title="Charge carrier">
+In physics, a charge carrier is a particle or quasiparticle that is free to move, carrying an electric charge, especially the particles that carry electric charges in electrical conductors. Examples are electrons, ions and holes. In a conducting medium, an electric field can exert force on these free particles, causing a net motion of the particles through the medium; this is what constitutes an electric current. In conducting media, particles serve to carry charge:
+
+In many metals, the charge carriers are electrons. One or two of the valence electrons from each atom is able to move about freely within the crystal structure of the metal. The free electrons are referred to as conduction electrons, and the cloud of free electrons is called a Fermi gas. Many metals have electron and hole bands.  In some, the majority carriers are holes.
+In electrolytes, such as salt water, the charge carriers are ions, which are atoms or molecules that have gained or lost electrons so they are electrically charged. Atoms that have gained electrons so they are negatively charged are called anions, atoms that have lost electrons so they are positively charged are called cations. Cations and anions of the dissociated liquid also serve as charge carriers in melted ionic solids (see e.g. the Hall–Héroult process for an example of electrolysis of a melted ionic solid). Proton conductors are electrolytic conductors employing positive hydrogen ions as carriers.
+In a plasma, an electrically charged gas which is found in electric arcs through air, neon signs, and the sun and stars, the electrons and cations of ionized gas act as charge carriers.
+In a vacuum, free electrons can act as charge carriers. In the electronic component known as the vacuum tube (also called valve), the mobile electron cloud is generated by a heated metal cathode, by a process called thermionic emission. When an electric field is applied strong enough to draw the electrons into a beam, this may be referred to as a cathode ray, and is the basis of the cathode ray tube display widely used in televisions and computer monitors until the 2000s.
+In semiconductors, which are the materials used to make electronic components like transistors and integrated circuits, two types of charge carrier are possible. In p-type semiconductors, "effective particles" known as electron holes with positive charge move through the crystal lattice, producing an electrical current. The "holes" are, in effect, electron vacancies in the valence-band electron population of the semiconductor and are treated as charge carriers because they are mobile, moving from atom site to atom site. In n-type semicronductors, electrons in the conduction band move through the crystal, resulting in an electrical current.In some conductors, such as ionic solutions and plasmas, positive and negative charge carriers coexist, so in these cases an electric current consists of the two types of carrier moving in opposite directions. In other conductors, such as metals, there are only charge carriers of one polarity, so an electric current in them simply consists of charge carriers moving in one direction.
+
+
+<\doc>
+<doc id="1483960" title="Charge invariance">
+Charge invariance refers to the fixed value of the electric charge of a particle regardless of its motion. Like mass, total spin and magnetic moment, particle's charge quantum number remains unchanged between two reference frames in relative motion. For example, an electron has a specific charge e, total spin 
+  
+    
+      
+        
+          
+            
+              ℏ
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\hbar }{2}}}
+  , and invariant mass me.  Accelerate that electron, and the charge, spin and mass assigned to it in all physical laws in the frame at rest and the moving frame remain the same – e, 
+  
+    
+      
+        
+          
+            
+              ℏ
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\hbar }{2}}}
+  , me. In contrast, the particle's total relativistic energy or de Broglie wavelength change values between the reference frames.  
+The origin of charge invariance, and all relativistic invariants, is presently unclear.  There may be some hints proposed by string/M-theory.  It is possible the concept of charge invariance may provide a key to unlocking the mystery of unification in physics – the single theory of gravity, electromagnetism, the strong, and weak nuclear forces.
+The property of charge invariance is embedded in the charge density – current density four-vector 
+  
+    
+      
+        
+          j
+          
+            μ
+          
+        
+        =
+        (
+        c
+        ρ
+        ,
+        
+          
+            
+              j
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle j^{\mu }=(c\rho ,{\vec {j}})}
+  , whose vanishing divergence 
+  
+    
+      
+        
+          ∂
+          
+            μ
+          
+        
+        
+          j
+          
+            μ
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \partial _{\mu }j^{\mu }=0}
+   then signifies charge conservation.
+
+
+<\doc>
+<doc id="8759049" title="Chiral color">
+In particle physics phenomenology, chiral color is a speculative model which extends quantum chromodynamics (QCD), the generally accepted theory for the strong interactions of quarks. QCD is a gauge field theory based on a gauge group known as color SU(3)C with an octet of colored gluons acting as the force carriers between a triplet of colored quarks.
+In Chiral Color, QCD is extended to a gauge group which is SU(3)L × SU(3)R and leads to a second octet of force carriers. SU(3)C is identified with a diagonal subgroup of these two factors. The gluons correspond to the unbroken gauge bosons and the color octet axigluons – which couple strongly to the quarks – are massive. Hence the name is Chiral Color. Although Chiral Color has presently no experimental support, it has the "aesthetic" advantage of rendering the Standard Model more similar in its treatment of the two short range forces, strong and weak interactions.
+Unlike gluons, the axigluons are predicted to be massive. Extensive searches for axigluons at CERN and Fermilab have placed a lower bound on the axigluon mass of about 1 TeV. Axigluons may be discovered when collisions are studied with higher energy at the Large Hadron Collider.
+<\doc>
+<doc id="2143137" title="Chiral perturbation theory">
+Chiral perturbation theory (ChPT) is an effective field theory constructed with a Lagrangian consistent with the (approximate) chiral symmetry of quantum chromodynamics (QCD), as well as the other symmetries of parity and charge conjugation. 
+ChPT is a theory which allows one to study the low-energy dynamics of QCD on the basis of this underlying chiral symmetry.
+<\doc>
+<doc id="1170169" title="Chirality (physics)">
+A chiral phenomenon is one that is not identical to its mirror image (see the article on mathematical chirality). The spin of a particle may be used to define a handedness, or helicity, for that particle, which, in the case of a massless particle, is the same as chirality. A symmetry transformation between the two is called parity transformation. Invariance under parity transformation by a Dirac fermion is called chiral symmetry.
+
+
+<\doc>
+<doc id="14498600" title="Chromo–Weibel instability">
+The Chromo–Weibel instability is a plasma instability present in homogeneous or nearly homogeneous non-abelian plasmas which possess an anisotropy in momentum space.  In the linear limit it is similar to the Weibel instability in electromagnetic plasmas but due to non-linear interactions present in non-abelian plasmas the late development of this instability is characterized by a turbulent cascade of modes.  This instability is relevant in the understanding of the early-time dynamics of the quark-gluon plasma as produced in heavy-ion collisions.
+<\doc>
+<doc id="33581389" title="CLs method (particle physics)">
+In particle physics, CLs represents a statistical method for setting upper limits (also called exclusion limits) on model parameters, a particular form of interval estimation used for parameters that can take only non-negative values. Although CLs are said to refer to Confidence Levels, "The method's name is ... misleading, as the CLs exclusion region is not a confidence interval." It was first introduced by physicists working at the LEP experiment at CERN and has since been used by many high energy physics experiments. It is a frequentist method in the sense that the properties of the limit are defined by means of error probabilities, however it differs from standard confidence intervals in that the stated confidence level of the interval is not equal to its coverage probability. The reason for this deviation is that standard upper limits based on a most powerful test necessarily produce empty intervals with some fixed probability when the parameter value is zero, and this property is considered undesirable by most physicists and statisticians.Upper limits derived with the CLs method always contain the zero value of the parameter and hence the coverage probability at this point is always 100%. The definition of CLs does not follow from any precise theoretical framework of statistical inference and is therefore described sometimes as ad hoc. It has however close resemblance to concepts of statistical evidence
+proposed by the statistician Allan Birnbaum.
+<\doc>
+<doc id="46571835" title="COBRA Experiment">
+The Cadmium Zinc Telluride 0-Neutrino Double-Beta (COBRA) experiment is a large array of cadmium zinc telluride (CdZnTe) semiconductors searching for evidence of neutrinoless double beta decay and to measure its half life. COBRA is located underground, within the Gran Sasso National Laboratory. The experiment was proposed in 2001, and installation of a large prototype began in 2006.
+
+
+<\doc>
+<doc id="2428994" title="Cockcroft–Walton generator">
+The Cockcroft–Walton (CW) generator, or multiplier, is an electric circuit that generates a high DC voltage from a low-voltage AC or pulsing DC input.  It was named after the British and Irish physicists John Douglas Cockcroft and Ernest Thomas Sinton Walton, who in 1932 used this circuit design to power their particle accelerator, performing the first artificial nuclear disintegration in history.  They used this voltage multiplier cascade for most of their research, which in 1951 won them the Nobel Prize in Physics for "Transmutation of atomic nuclei by artificially accelerated atomic particles". The circuit was discovered in 1919, by Heinrich Greinacher, a Swiss physicist. For this reason, this doubler cascade is sometimes also referred to as the Greinacher multiplier.  Cockcroft–Walton circuits are still used in particle accelerators. They also are used in everyday electronic devices that require high voltages, such as X-ray machines, cathode ray tube television sets, microwave ovens and photocopiers.
+<\doc>
+<doc id="53992385" title="Collaborative Computational Project Q">
+Collaborative Computational Project Q (CCPQ) was developed in order to provide software which uses theoretical techniques to catalogue collisions between electrons, positrons or photons and atomic/molecular targets. The 'Q' stands for quantum dynamics. This project is accessible via the CCPForge website, which contains numerous other projects such as CCP2 and CCP4.  The scope has increased to include atoms and molecules in strong (long-pulse and attosecond) laser fields, low-energy interactions of antihydrogen with small atoms and molecules, cold atoms, Bose–Einstein condensates and optical lattices. CCPQ gives essential information on the reactivity of various molecules, and contains two community codes R-matrix suite and MCTDH wavepacket dynamics.The project is supported by the Atomic and Molecular Physics group at Daresbury Laboratory, which supports research in core computational and scientific codes and research.This project is a collaboration between University College London (UCL), University of Bath, and Queen's University Belfast. The project is led by Professor Graham Worth who is the Chair, alongside Vice-Chairs Dr Stephen Clark and Professor Hugo van der Hart. Quantemol Ltd is also a close partner of the project. The project is a result of the previous Collaborative Computation Project 2 (CCP2), and is an improved version of this older project. CCPQ (and its predecessor CCP2) have supported various incarnations of the UK Molecular R-matrix project for almost 40 years.
+<\doc>
+<doc id="14948065" title="Color–flavor locking">
+Color–flavor locking (CFL) is a phenomenon that is expected to occur in ultra-high-density strange matter, a form of quark matter. The quarks form Cooper pairs, whose color properties are correlated with their flavor properties in a one-to-one correspondence between three color pairs and three flavor pairs. According to the Standard Model of particle physics, the color-flavor-locked phase is the highest-density phase of three-flavor colored matter.
+
+
+<\doc>
+<doc id="14515809" title="Colored-particle-in-cell">
+A particle in cell simulation for non-Abelian (colored) particles and fields. Can be used to simulate an equilibrium or non-equilibrium quark-gluon plasma.
+<\doc>
+<doc id="3093672" title="Common beta emitters">
+
+<\doc>
+<doc id="3085316" title="Commonly used gamma-emitting isotopes">
+Radionuclides which emit gamma radiation are valuable in a range of different industrial, scientific and medical technologies. This article lists some common gamma-emitting radionuclides of technological importance, and their properties.
+<\doc>
+<doc id="44182725" title="Composite Higgs models">
+In particle physics, composite Higgs models (CHM) are speculative extensions of the Standard Model (SM) where the Higgs boson is a bound state of new strong interactions. These scenarios are models for physics beyond the SM presently tested at the Large Hadron Collider (LHC) in Geneva.
+In all composite Higgs models the recently discovered Higgs boson is not an elementary particle (or point-like)  but has finite size, perhaps around 10−18 meters. This dimension may be related to the Fermi scale (100 GeV) that determines the strength of the weak interactions such as in β-decay, but it could be significantly smaller. Microscopically the composite Higgs will be made of smaller constituents in the same way as nuclei are made of protons and neutrons.
+
+
+<\doc>
+<doc id="27151346" title="Continuous slowing down approximation range">
+The CSDA range is a very close approximation to the average distance traveled by a charged particle as it slows down to rest, calculated in the continuous-slowing-down approximation. In this approximation, the rate of energy loss at every point along the track is assumed to be equal to the same as the total stopping power. Energy-loss fluctuations are neglected. The CSDA range is obtained by integrating the reciprocal of the total stopping power with respect to energy.
+<\doc>
+<doc id="950012" title="Coupling (physics)">
+In physics, two objects are said to be coupled when they are interacting with each other. In classical mechanics, coupling is a connection between two oscillating systems, such as pendulums connected by a spring. The connection affects the oscillatory pattern of both objects. In particle physics, two particles are coupled if they are connected by one of the four fundamental forces.
+
+
+<\doc>
+<doc id="681962" title="Coupling constant">
+In physics, a coupling constant or gauge coupling parameter (or, more simply, a coupling),  is a number that determines the strength of the force exerted in an interaction. Originally, the coupling constant related the force acting between two static bodies to the "charges" of the bodies (i.e. the electric charge for electrostatic and the mass for Newton’s gravity) divided by the distance squared, 
+  
+    
+      
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle r^{2}}
+  , between the bodies: 
+  
+    
+      
+        F
+        =
+        G
+        M
+        m
+        
+          /
+        
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F=GMm/r^{2}}
+   for Newton’s gravity and 
+  
+    
+      
+        F
+        =
+        
+          k
+          
+            e
+          
+        
+        
+          q
+          
+            1
+          
+        
+        
+          q
+          
+            2
+          
+        
+        
+          /
+        
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F=k_{\text{e}}q_{1}q_{2}/r^{2}}
+   for electrostatic. This description remains valid in modern physics for linear theories with static bodies and massless force carriers. 
+A modern and more general definition uses the Lagrangian 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   (or equivalently the Hamiltonian 
+  
+    
+      
+        
+          
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathcal {H}}}
+  ) of a system. Usually, 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    {\displaystyle {\mathcal {L}}}
+   (or 
+  
+    
+      
+        
+          
+            H
+          
+        
+      
+    
+    {\displaystyle {\mathcal {H}}}
+  ) of a system describing an interaction can be separated into a kinetic part 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and an interaction part 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  : 
+  
+    
+      
+        
+          
+            L
+          
+        
+        =
+        T
+        −
+        V
+      
+    
+    {\displaystyle {\mathcal {L}}=T-V}
+   (or 
+  
+    
+      
+        
+          
+            H
+          
+        
+        =
+        T
+        +
+        V
+      
+    
+    {\displaystyle {\mathcal {H}}=T+V}
+  ). 
+In field theory, 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   always contains 3 fields terms or more, expressing for example that an initial electron (field 1) interacted with a photon (field 2) producing the final state of the electron (field 3). In contrast, the kinetic part 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   always contains only two fields, expressing the free propagation of an initial particle (field 1) into a later state (field 2).    
+The coupling constant determines the magnitude of the 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   part with respect to the 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   part (or between two sectors of the interaction part if several fields that couple differently are present). For example, the electric charge of a particle is a coupling constant that characterizes an interaction with two charge-carrying fields and one photon field (hence the common Feynman diagram with two arrows and one wavy line). Since photons mediate the electromagnetic force, this coupling  determines how strongly electrons feel such a force, and has its value fixed by experiment. By looking at the QED Lagrangian, one sees that indeed, the coupling sets the proportionality between the kinetic term 
+  
+    
+      
+        T
+        =
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        (
+        i
+        ℏ
+        c
+        
+          γ
+          
+            σ
+          
+        
+        
+          ∂
+          
+            σ
+          
+        
+        −
+        m
+        
+          c
+          
+            2
+          
+        
+        )
+        ψ
+        −
+        
+          
+            1
+            
+              4
+              
+                μ
+                
+                  0
+                
+              
+            
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+        
+          F
+          
+            μ
+            ν
+          
+        
+      
+    
+    {\displaystyle T={\bar {\psi }}(i\hbar c\gamma ^{\sigma }\partial _{\sigma }-mc^{2})\psi -{1 \over 4\mu _{0}}F_{\mu \nu }F^{\mu \nu }}
+    and the interaction term 
+  
+    
+      
+        V
+        =
+        −
+        e
+        
+          
+            
+              ψ
+              ¯
+            
+          
+        
+        (
+        ℏ
+        c
+        
+          γ
+          
+            σ
+          
+        
+        
+          A
+          
+            σ
+          
+        
+        )
+        ψ
+      
+    
+    {\displaystyle V=-e{\bar {\psi }}(\hbar c\gamma ^{\sigma }A_{\sigma })\psi }
+  . 
+
+A coupling plays an important role in dynamics. For example, one often sets up hierarchies of approximation based on the importance of various coupling constants. In the motion of a large lump of magnetized iron, the magnetic forces may be more important than the gravitational forces because of the relative magnitudes of the coupling constants. However, in classical mechanics, one usually makes these decisions directly by comparing forces. Another important example of the central role played by coupling constants is that they are the expansion parameters for first-principle calculations based on perturbation theory, which is the main method of calculation in many branches of physics. 
+
+
+<\doc>
+<doc id="18969769" title="CP violation">
+In particle physics, CP violation is a violation of CP-symmetry (or charge conjugation parity symmetry): the combination of C-symmetry (charge symmetry) and P-symmetry (parity symmetry). CP-symmetry states that the laws of physics should be the same if a particle is interchanged with its antiparticle (C symmetry) while its spatial coordinates are inverted ("mirror" or P symmetry). The discovery of CP violation in 1964 in the decays of neutral kaons resulted in the Nobel Prize in Physics in 1980 for its discoverers James Cronin and Val Fitch.
+It plays an important role both in the attempts of cosmology to explain the dominance of matter over antimatter in the present universe, and in the study of weak interactions in particle physics.
+<\doc>
+<doc id="7480" title="Cross section (physics)">
+In physics, the cross section is a measure of the probability that a specific process will take place when some kind of radiant excitation (e.g. a particle beam, sound wave, light, or an X-ray) intersects a localized phenomenon (e.g. a particle or density fluctuation). For example, the Rutherford cross-section is a measure of probability that an alpha-particle will be deflected by a given angle during a collision with an atomic nucleus. Cross section is typically denoted σ (sigma) and is expressed in units of transverse area. In a way, it can be thought of as the size of the object that the excitation must hit in order for the process to occur, but more exactly, it is a parameter of a stochastic process.
+In classical physics, this probability often converges to a deterministic proportion of excitation energy involved in the process, so that, for example, with light scattering off of a particle, the cross section specifies the amount of optical power scattered from light of a given irradiance (power per area). It is important to note that although the cross section has the same units as area, the cross section may not necessarily correspond to the actual physical size of the target given by other forms of measurement. It is not uncommon for the actual cross-sectional area of a scattering object to be much larger or smaller than the cross section relative to some physical process. For example, plasmonic nanoparticles can have light scattering cross sections for particular frequencies that are much larger than their actual cross-sectional areas.
+When two discrete particles interact in classical physics, their mutual cross section is the area transverse to their relative motion within which they must meet in order to scatter from each other. If the particles are hard inelastic spheres that interact only upon contact, their scattering cross section is related to their geometric size. If the particles interact through some action-at-a-distance force, such as electromagnetism or gravity, their scattering cross section is generally larger than their geometric size.
+When a cross section is specified as the differential limit of a function of some final-state variable, such as particle angle or energy, it is called a differential cross section (see detailed discussion below). When a cross section is integrated over all scattering angles (and possibly other variables), it is called a total cross section or integrated total cross section. For example, in Rayleigh scattering, the intensity scattered at the forward and backward angles is greater than the intensity scattered sideways, so the forward differential scattering cross section is greater than the perpendicular differential cross section, and by adding all of the infinitesimal cross sections over the whole range of angles with integral calculus, we can find the total cross section.
+Scattering cross sections may be defined in nuclear, atomic, and particle physics for collisions of accelerated beams of one type of particle with targets (either stationary or moving) of a second type of particle. The probability for any given reaction to occur is in proportion to its cross section. Thus, specifying the cross section for a given reaction is a proxy for stating the probability that a given scattering process will occur.
+The measured reaction rate of a given process depends strongly on experimental variables such as the density of the target material, the intensity of the beam, the detection efficiency of the apparatus, or the angle setting of the detection apparatus. However, these quantities can be factored away, allowing measurement of the underlying two-particle collisional cross section.
+Differential and total scattering cross sections are among the most important measurable quantities in nuclear, atomic, and particle physics.
+
+
+<\doc>
+<doc id="714601" title="Dalitz plot">
+The Dalitz plot is a two-dimensional often used in particle physics to represent the relative frequency of various (kinematically distinct) manners in which the products of certain (otherwise similar) three-body decays may move apart.The kinematics of a three-body decay can be completely described using two variables. In a traditional Dalitz plot, the axes of the plot are the squares of the invariant masses of two pairs of the decay products. (For example, if particle A decays to particles 1, 2, and 3, a Dalitz plot for this decay could plot m212 on the x-axis and m223 on the y-axis.) If there are no angular correlations between the decay products then the distribution of these variables is flat. However symmetries may impose certain restrictions on the distribution.  Furthermore, three-body decays are often dominated by resonant processes, in which the particle decays into two decay products, with one of those decay products immediately decaying into two additional decay products. In this case, the Dalitz plot will show a non-uniform distribution, with a peak around the mass of the resonant decay. In this way, the Dalitz plot provides an excellent tool for studying the dynamics of three-body decays.
+Dalitz plots play a central role in the discovery of new particles in current high-energy physics experiments, including  Higgs boson research, and are tools in exploratory efforts that might open avenues beyond the Standard Model.R.H. Dalitz introduced this technique in 1953 to study decays of K mesons (which at that time were still referred to as "tau-mesons"). It can be adapted to the analysis of four-body decays as well.  A specific form of a four-particle Dalitz plot (for non-relativistic kinematics), which is based on a tetrahedral coordinate system, was first applied to study the few-body dynamics in atomic four-body fragmentation processes.
+
+
+<\doc>
+<doc id="20468824" title="De Sitter invariant special relativity">
+In mathematical physics, de Sitter invariant special relativity is the speculative idea that the fundamental symmetry group of spacetime is the indefinite orthogonal group SO(4,1), that of de Sitter space. In the standard theory of general relativity, de Sitter space is a highly symmetrical special vacuum solution, which requires a cosmological constant or the stress–energy of a constant scalar field to sustain.
+The idea of de Sitter invariant relativity is to require that the laws of physics are not fundamentally invariant under the Poincaré group of special relativity, but under the symmetry group of de Sitter space instead. With this assumption, empty space automatically has de Sitter symmetry, and what would normally be called the cosmological constant in general relativity becomes a fundamental dimensional parameter describing the symmetry structure of spacetime.
+First proposed by Luigi Fantappiè in 1954, the theory remained obscure until it was rediscovered in 1968 by Henri Bacry and Jean-Marc Lévy-Leblond. In 1972, Freeman Dyson popularized it as a hypothetical road by which mathematicians could have guessed part of the structure of general relativity before it was discovered. The discovery of the accelerating expansion of the universe has led to a revival of interest in de Sitter invariant theories, in conjunction with other speculative proposals for new physics, like doubly special relativity.
+
+
+<\doc>
+<doc id="7344637" title="Desert (particle physics)">
+In the Grand Unified Theory of particle physics (GUT), the desert refers to a theorized gap in energy scales, between approximately the electroweak energy scale–conventionally defined as roughly the vacuum expectation value or VeV of the Higgs field (about 246 GeV)–and the GUT scale, in which no unknown interactions appear. 
+It can also be described as a gap in the lengths involved, with no new physics below 10−18 m (the currently probed length scale) and above 10−31 m (the GUT length scale).
+The idea of the desert was motivated by the observation of approximate, order of magnitude, gauge coupling unification at the GUT scale. When the values of the gauge coupling constants of the weak nuclear, strong nuclear, and electromagnetic forces are plotted as a function of energy, the 3 values appear to nearly converge to a common single value at very high energies. This was one theoretical motivation for Grand Unified Theories themselves, and adding new interactions at any intermediate energy scale generally disrupts this gauge coupling unification. The disruption arises from the new quantum fields- the new forces and particles- which introduce new coupling constants and new interactions that modify the existing Standard Model coupling constants at higher energies. The fact that the convergence in the Standard Model is actually inexact, however, is one of the key theoretical arguments against the Desert, since making the unification exact requires new physics below the GUT scale.
+<\doc>
+<doc id="6334273" title="Detection of internally reflected Cherenkov light">
+In particle detectors a detection of internally reflected Cherenkov light (DIRC) detector measures the velocity of charged particles and is used for particle identification. It is a design of a ring imaging Cherenkov detector where Cherenkov light that is contained by total internal reflection inside the solid radiator has its angular information preserved until it reaches the light sensors at the detector perimeter.
+
+A charged particle travelling through a material (for instance fused silica) with a speed greater than c/n (n  refractive index, c vacuum speed of light) emits Cherenkov radiation. If the light angle on the surface is sufficiently shallow, this radiation is contained inside and transmitted through internal reflections to an expansion volume, coupled to photomultipliers (or other types of photon detectors), to measure the angle. Preserving the angle requires a precise planar and rectangular cross section of the radiator. Knowledge of the angle at which the radiation was produced, combined with the track angle and the particle's momentum (measured in a tracking detector like a drift chamber) may be used to calculate the particle's mass.
+A DIRC was first proposed by Blair Ratcliff as a tool for particle identification at a B-Factory, and the design was first used by the BaBar collaboration at SLAC. Since the successful operation in the BaBar experiment next-generation DIRC-type detectors have been designed for several new particle physics experiments, including Belle-II, PANDA, and GlueX. The DIRC differs from earlier RICH and CRID Cherenkov light detectors in that the quartz bars used as radiators also transmit the light.
+<\doc>
+<doc id="5208918" title="DGLAP">
+DGLAP (Dokshitzer–Gribov–Lipatov–Altarelli–Parisi) are the authors who first wrote the QCD evolution equation of the same name. DGLAP was first published in the western world by Altarelli and Parisi in 1977, hence DGLAP and its specialisations are sometimes still called Altarelli–Parisi equations.  Only later did it become known that an equivalent formula had been published in Russia by Dokshitzer also in 1977 and Gribov and Lipatov already in 1972.The DGLAP QCD evolution equations are widely used in global determinations of parton distributions, like those from the CTEQ or NNPDF collaborations.
+<\doc>
+<doc id="13236337" title="Di-positronium">
+Di-positronium, or dipositronium, is an exotic molecule consisting of two atoms of positronium.  It was predicted to exist in 1946 by John Archibald Wheeler, and subsequently studied theoretically, but was not observed until 2007 in an experiment performed by David Cassidy and Allen Mills at the University of California, Riverside.  The researchers made the positronium molecules by firing intense bursts of positrons into a thin film of porous silicon dioxide. Upon slowing down in the silica, the positrons captured ordinary electrons to form positronium atoms. Within the silica, these were long lived enough to interact, forming molecular di-positronium.  Advances in trapping and manipulating positrons, and spectroscopy techniques have enabled studies of Ps–Ps interactions.  In 2012, Cassidy et al. were able to produce the excited molecular positronium 
+  
+    
+      
+        L
+        =
+        1
+      
+    
+    {\displaystyle L=1}
+   angular momentum state.
+<\doc>
+<doc id="38635705" title="Dijet event">
+In particle physics, a dijet event is a collision between subatomic particles that produces two particle jets.Dijet events are measured at LHC to constrain QCD models, in particular the parton evolution equations and parton distribution functions. This is accomplished by measuring the azimuthal correlations between the two jets.
+<\doc>
+<doc id="1934279" title="Dimensional deconstruction">
+In theoretical physics, dimensional deconstruction is a method to construct d-dimensional theories that behave as higher-dimensional theories in a certain range of energies. The resulting theory is a gauge theory whose gauge group is a direct product of many copies of the same group; each copy may be interpreted as the gauge group located at a particular point along a new, discrete, "deconstructed" (d+1)st dimension. The spectrum of matter fields is a set of bifundamental representations expressed by a quiver diagram that is analogous to lattices in lattice gauge theory. 
+"Deconstruction" in physics was introduced by  Nima Arkani-Hamed, Andy Cohen and  Howard Georgi, and independently by Christopher T. Hill, Stefan Pokorski and Jing Wang.  Deconstruction is a lattice approximation to the real space of extra dimensions, while maintaining the full gauge symmetries and yields the low energy effective description of the physics.  This leads to a rationale for extensions of the Standard Model based upon product gauge groups, 
+  
+    
+      
+        G
+        ×
+        G
+        ×
+        G
+        .
+        .
+        .
+      
+    
+    {\displaystyle G\times G\times G...}
+  , such as anticipated in
+"topcolor" models of electroweak symmetry breaking.   The little Higgs theories are also examples of phenomenologically interesting models inspired by deconstruction.  Deconstruction is  used in a supersymmetric context to address the hierarchy problem and model extra dimensions. 
+"Clock models," which have become popular in recent years in particle physics, are completely equivalent to deconstruction.
+<\doc>
+<doc id="2142913" title="Diquark">
+In particle physics, a diquark, or diquark correlation/clustering, is a hypothetical state of two quarks grouped inside a baryon (that consists of three quarks) (Lichtenberg 1982). Corresponding models of baryons are referred to as quark–diquark models. The diquark is often treated as a single subatomic particle with which the third quark interacts via the strong interaction. The existence of diquarks inside the nucleons is a disputed issue, but it helps to explain some nucleon properties and to reproduce experimental data sensitive to the nucleon structure. Diquark–antidiquark pairs have also been advanced for anomalous particles such as the X(3872).
+<\doc>
+<doc id="1991441" title="Double beta decay">
+In nuclear physics, double beta decay is a type of radioactive decay in which two neutrons are simultaneously transformed into two protons, or vice versa, inside an atomic nucleus. As in single beta decay, this process allows the atom to move closer to the optimal ratio of protons and neutrons. As a result of this transformation, the nucleus emits two detectable beta particles, which are electrons or positrons.
+The literature distinguishes between two types of double beta decay: ordinary double beta decay and neutrinoless double beta decay. In ordinary double beta decay, which has been observed in several isotopes, two electrons and two electron antineutrinos are emitted from the decaying nucleus. In neutrinoless double beta decay, a hypothesized process that has never been observed, only electrons would be emitted.
+<\doc>
+<doc id="1374906" title="Doublet–triplet splitting problem">
+In particle physics, the doublet–triplet (splitting) problem is a problem of some Grand Unified Theories, such as  SU(5), SO(10), 
+  
+    
+      
+        
+          E
+          
+            6
+          
+        
+      
+    
+    {\displaystyle E_{6}}
+  . Grand unified theories predict Higgs bosons (doublets of 
+  
+    
+      
+        S
+        U
+        (
+        2
+        )
+      
+    
+    {\displaystyle SU(2)}
+  ) arise from representations of the unified group that contain other states, in particular, states that are triplets of color. The primary problem with these color triplet Higgs is that they can mediate proton decay in supersymmetric theories that are only suppressed by two powers of GUT scale (i.e. they are dimension 5 supersymmetric operators). In addition to mediating proton decay, they alter gauge coupling unification. The doublet–triplet problem is the question 'what keeps the doublets light while the triplets are heavy?'
+<\doc>
+<doc id="1133088" title="Elastic scattering">
+Elastic scattering is a form of particle scattering in scattering theory, nuclear physics and particle physics. In this process, the kinetic energy of a particle is conserved in the center-of-mass frame, but its direction of propagation is modified (by interaction with other particles and/or potentials). Furthermore, while the particle's kinetic energy in the center-of-mass frame is constant, its energy in the lab frame is not. Generally, elastic scattering describes a process in which the total kinetic energy of the system is conserved.  During elastic scattering of high-energy subatomic particles, linear energy transfer (LET) takes place until the incident particle's energy and speed has been reduced to the same as its surroundings, at which point the particle is "stopped".
+<\doc>
+<doc id="2612804" title="Electron bubble">
+An electron bubble is the empty space created around a free electron in a cryogenic gas or liquid, such as neon or helium.  They are typically very small, about 2 nm in diameter at atmospheric pressure.
+
+
+<\doc>
+<doc id="4846345" title="Electron electric dipole moment">
+The electron electric dipole moment (EDM) de is an intrinsic property of an electron such that the potential energy is linearly related to the strength of the electric field: 
+
+  
+    
+      
+        U
+        =
+        
+          
+            d
+          
+          
+            
+              e
+            
+          
+        
+        ⋅
+        
+          E
+        
+        .
+      
+    
+    {\displaystyle U=\mathbf {d} _{\rm {e}}\cdot \mathbf {E} .}
+  The electron's EDM must be collinear with the direction of the electron's magnetic moment (spin). Within the Standard Model of elementary particle physics, such a dipole is predicted to be non-zero but very small, at most 10−38 e⋅cm, where e stands for the elementary charge. The discovery of a substantially larger electron electric dipole moment would imply a violation of both parity invariance and time reversal invariance.
+
+
+<\doc>
+<doc id="1673288" title="Electron magnetic moment">
+In atomic physics, the electron magnetic moment, or more specifically the electron magnetic dipole moment, is the magnetic moment of an electron caused by its intrinsic properties of spin and electric charge. The value of the electron magnetic moment is approximately −9.284764×10−24 J/T.  The electron magnetic moment has been measured to an accuracy of 7.6 parts in 1013.
+
+
+<\doc>
+<doc id="9598" title="Electronvolt">
+In physics, an electronvolt (symbol eV, also written electron-volt and electron volt) is the amount of kinetic energy gained by a single electron accelerating from rest through an electric potential difference of one volt in vacuum. When used as a unit of energy, the numerical value of 1 eV in joules (symbol J) is equivalent to the numerical value of the charge of an electron in coulombs (symbol C). Under the 2019 redefinition of the SI base units, this sets 1 eV equal to the exact value 1.602176634×10−19 J.Historically, the electronvolt was devised as a standard unit of measure through its usefulness in electrostatic particle accelerator sciences, because a particle with electric charge q has an energy E = qV after passing through the potential V; if q is quoted in integer units of the elementary charge and the potential in volts, one gets an energy in eV.
+It is a common unit of energy within physics, widely used in solid state, atomic, nuclear, and particle physics. It is commonly used with the metric prefixes milli-, kilo-, mega-, giga-, tera-, peta- or exa- (meV, keV, MeV, GeV, TeV, PeV and EeV respectively). In some older documents, and in the name Bevatron, the symbol BeV is used, which stands for billion (109) electronvolts; it is equivalent to the GeV.
+<\doc>
+<doc id="140857" title="Electron–positron annihilation">
+Electron–positron annihilation occurs when an electron (e−) and a positron (e+, the electron's antiparticle) collide. At low energies, the result of the collision is the annihilation of the electron and positron, and the creation of energetic photons:
+
+e− + e+ → γ + γAt high energies, other particles, such as B mesons or the W and Z bosons, can be created. All processes must satisfy a number of conservation laws, including:
+
+Conservation of electric charge. The net charge before and after is zero.
+Conservation of linear momentum and total energy. This forbids the creation of a single photon. However, in quantum field theory this process is allowed; see examples of annihilation.
+Conservation of angular momentum.
+Conservation of total (i.e. net) lepton number, which is the number of leptons (such as the electron) minus the number of antileptons (such as the positron); this can be described as a conservation of (net) matter law.As with any two charged objects, electrons and positrons may also interact with each other without annihilating, in general by elastic scattering.
+
+
+<\doc>
+<doc id="10103" title="Electroweak interaction">
+In particle physics, the electroweak interaction or electroweak force is the unified description of two of the four known fundamental interactions of nature: electromagnetism and the weak interaction. Although these two forces appear very different at everyday low energies, the theory models them as two different aspects of the same force. Above the unification energy, on the order of 246 GeV, they would merge into a single force. Thus, if the universe is hot enough (approximately 1015 K, a temperature not exceeded since shortly after the Big Bang), then the electromagnetic force and weak force merge into a combined electroweak force. During the quark epoch, the electroweak force split into the electromagnetic and weak force.
+Sheldon Glashow, Abdus Salam, and Steven Weinberg were awarded the 1979 Nobel Prize in Physics for their contributions to the unification of the weak and electromagnetic interaction between elementary particles, known as the Weinberg–Salam theory. The existence of the electroweak interactions was experimentally established in two stages, the first being the discovery of neutral currents in neutrino scattering by the Gargamelle collaboration in 1973, and the second in 1983 by the UA1 and the UA2 collaborations that involved the discovery of the W and Z gauge bosons in proton–antiproton collisions at the converted Super Proton Synchrotron. In 1999, Gerardus 't Hooft and Martinus Veltman were awarded the Nobel prize for showing that the electroweak theory is renormalizable.
+
+
+<\doc>
+<doc id="11274" title="Elementary particle">
+In particle physics, an elementary particle or fundamental particle is a subatomic particle with no substructure, i.e. it is not composed of other particles. Particles currently thought to be elementary include the fundamental fermions (quarks, leptons, antiquarks, and antileptons), which generally are "matter particles" and "antimatter particles", as well as the fundamental bosons (gauge bosons and the Higgs boson), which generally are "force particles" that mediate interactions among fermions. A particle containing two or more elementary particles is called a composite particle.
+Ordinary matter is composed of atoms, once presumed to be elementary particles—atom meaning "unable to cut" in Greek—although the atom's existence remained controversial until about 1905, as some leading physicists regarded molecules as mathematical illusions, and matter as ultimately composed of energy. Subatomic constituents of the atom were first identified in the early 1930s; the electron and the proton, along with the photon, the particle of electromagnetic radiation. At that time, the recent advent of quantum mechanics was radically altering the conception of particles, as a single particle could seemingly span a field as would a wave, a paradox still eluding satisfactory explanation.Via quantum theory, protons and neutrons were found to contain quarks – up quarks and down quarks – now considered elementary particles. And within a molecule, the electron's three degrees of freedom (charge, spin, orbital) can separate via the wavefunction into three quasiparticles (holon, spinon, and orbiton). Yet a free electron – one which is not orbiting an atomic nucleus and hence lacks orbital motion – appears unsplittable and remains regarded as an elementary particle.Around 1980, an elementary particle's status as indeed elementary – an ultimate constituent of substance – was mostly discarded for a more practical outlook, embodied in particle physics' Standard Model, what's known as science's most experimentally successful theory. Many elaborations upon and theories beyond the Standard Model, including the popular supersymmetry, double the number of elementary particles by hypothesizing that each known particle associates with a "shadow" partner far more massive, although all such superpartners remain undiscovered. Meanwhile, an elementary boson mediating gravitation – the graviton – remains hypothetical. Also, as hypotheses indicate, spacetime is probably quantized, so there most likely exist "atoms" of space and time itself.
+
+
+<\doc>
+<doc id="26482358" title="Elliptic flow">
+Relativistic heavy-ion collisions produce very large numbers of subatomic particles in all directions.  In such collisions, flow refers to how energy, momentum, and number of these particles varies with direction, and elliptic flow is a measure of how the flow is not uniform in all directions when viewed along the beam-line. Elliptic flow is strong evidence for the existence of quark–gluon plasma, and has been described as one of the most important observations measured at the Relativistic Heavy Ion Collider (RHIC).Elliptic flow describes the azimuthal momentum space anisotropy of particle emission from non-central heavy-ion collisions in the plane transverse to the beam direction, and is defined as the second harmonic coefficient of the azimuthal Fourier decomposition of the momentum distribution. Elliptic flow is a fundamental observable since it directly reflects the initial spatial anisotropy, of the nuclear overlap region in the transverse plane, directly translated into the observed momentum distribution of identified particles.  Since the spatial anisotropy is largest at the beginning of the evolution, elliptic flow is especially sensitive to the early stages of system evolution. A measurement of elliptic flow thus provides access to the fundamental thermalization time scale and many more things in the early stages of a relativistic heavy-ion collision.
+
+
+<\doc>
+<doc id="25137682" title="EMC effect">
+The EMC effect is the surprising observation that the cross section for deep inelastic scattering from an atomic nucleus is different from that of the same number of free protons and neutrons (collectively referred to as nucleons). From this observation, it can be inferred that the quark momentum distributions in nucleons bound inside nuclei are different from those of free nucleons. This effect was first observed in 1983 at CERN by the European Muon Collaboration, hence the name "EMC effect". It was unexpected, since the average binding energy of protons and neutrons inside nuclei is insignificant when compared to the energy transferred in deep inelastic scattering reactions that probe quark distributions. While over 1000 scientific papers have been written on the topic and numerous hypotheses have been proposed, no definitive explanation for the cause of the effect has been confirmed. Determining the origin of the EMC effect is one of the major unsolved problems in the field of nuclear physics.
+<\doc>
+<doc id="292420" title="Emission spectrum">
+The emission spectrum of a chemical element or chemical compound is the spectrum of frequencies of electromagnetic radiation emitted due to an atom or molecule making a transition from a high energy state to a lower energy state. The photon energy of the emitted photon is equal to the energy difference between the two states. There are many possible electron transitions for each atom, and each transition has a specific energy difference. This collection of different transitions, leading to different radiated wavelengths, make up an emission spectrum. Each element's emission spectrum is unique. Therefore, spectroscopy can be used to identify elements in matter of unknown composition. Similarly, the emission spectra of molecules can be used in chemical analysis of substances.
+
+
+<\doc>
+<doc id="934449" title="Energy amplifier">
+In nuclear physics, an energy amplifier is a novel type of nuclear power reactor, a subcritical reactor, in which an energetic particle beam is used to stimulate a reaction, which in turn releases enough energy to power the particle accelerator and leave an energy profit for power generation. The concept has more recently been referred to as an accelerator-driven system (ADS) or Accelerator-driven sub-critical reactor.
+None have ever been built.
+
+
+<\doc>
+<doc id="3458824" title="Event generator">
+Event generators are software libraries that generate simulated high-energy particle physics events.
+They randomly generate events as those produced in particle accelerators, collider experiments or the early universe.
+Events come in different types called processes as discussed in the Automatic calculation of particle interaction or decay article.
+Despite the simple structure of the tree-level perturbative quantum field theory description of the collision and decay processes in an event, the observed high-energy process usually contains significant amount of modifications, like photon and gluon bremsstrahlung or loop diagram corrections, that usually are too complex to be easily evaluated in real calculations directly on the diagrammatic level. Furthermore, the non-perturbative nature of QCD bound states makes it necessary to include information that is well beyond the reach of perturbative quantum field theory, and also beyond present ability of computation in lattice QCD. And in collisional systems more complex than a few leptons and hadrons (e.g. heavy-ion collisions), the collective behavior of the system would involve a phenomenological description that also cannot be easily obtained from the fundamental field theory by a simple calculus.
+
+
+<\doc>
+<doc id="14260512" title="An Exceptionally Simple Theory of Everything">
+"An Exceptionally Simple Theory of Everything" is a physics preprint proposing a basis for a unified field theory, often referred to as "E8 Theory", which attempts to describe all known fundamental interactions in physics and to stand as a possible theory of everything. The paper was posted to the physics arXiv by Antony Garrett Lisi on November 6, 2007, and was not submitted to a peer-reviewed scientific journal. The title is a pun on the algebra used, the Lie algebra of the largest "simple", "exceptional" Lie group, E8. The paper's goal is to describe how the combined structure and dynamics of all gravitational and Standard Model particle fields, including fermions, are part of the E8 Lie algebra.The theory is presented as an extension of the grand unified theory program, incorporating gravity and fermions. In the paper, Lisi states that all three generations of fermions do not directly embed in E8 with correct quantum numbers and spins, but that they must be described via a triality transformation, noting that the theory is incomplete and that a correct description of the relationship between triality and generations, if it exists, awaits a better understanding.
+The theory received a flurry of media coverage, but also met with widespread skepticism. Scientific American reported in March 2008 that the theory was being "largely but not entirely ignored" by the mainstream physics community, with a few physicists picking up the work to develop it further. In July 2009, Jacques Distler and Skip Garibaldi published a critical paper in Communications in Mathematical Physics called "There is no 'Theory of Everything' inside E8", arguing that Lisi's theory, and a large class of related models, cannot work. They offer a direct proof that it is impossible to embed all three generations of fermions in E8, or to obtain even the one-generation Standard Model without the presence of an antigeneration. 
+Lisi continued to promote variations on his original proposal in the years after the Distler and Garibaldi paper.
+<\doc>
+<doc id="4706200" title="Exchange force">
+In physics the term exchange force has been used to describe two distinct concepts which should not be confused.
+<\doc>
+<doc id="1982315" title="Exotic hadron">
+Exotic hadrons are subatomic particles composed of quarks and gluons, but which - unlike "well-known" hadrons such as protons , neutrons and mesons - consist of more than three valence quarks. By contrast, "ordinary" hadrons contain just two or three quarks. Hadrons with explicit valence gluon content would also be considered exotic. In theory, there is no limit on the number of quarks in a hadron, as long as the hadron's color charge is white, or color-neutral.Consistent with ordinary hadrons, exotic hadrons are classified as being either fermions, like ordinary baryons, or bosons, like ordinary mesons. According to this classification scheme, pentaquarks, containing five valence quarks, are exotic baryons, while tetraquarks (four valence quarks) and hexaquarks (six quarks, consisting of either a dibaryon or three quark-antiquark pairs) would be considered exotic mesons. Tetraquark and pentaquark particles are believed to have been observed and are being investigated; Hexaquarks have not yet been confirmed as observed.
+Exotic hadrons can be searched for by looking for S-matrix poles with quantum numbers forbidden to ordinary hadrons. Experimental signatures for such exotic hadrons have been seen by at least 2003 but remain a topic of controversy in particle physics.
+Jaffe and Low suggested that the exotic hadrons manifest themselves as poles of the P matrix, and not of the S matrix. Experimental P-matrix poles are determined reliably in both the meson-meson channels and nucleon-nucleon channels.
+
+
+<\doc>
+<doc id="71478" title="Exotic matter">
+There are several proposed types of exotic matter:
+
+Hypothetical particles and states of matter that have "exotic" physical properties that would violate known laws of physics, such as a particle having a negative mass.
+Hypothetical particles and states of matter that have not yet been encountered, but whose properties would be within the realm of mainstream physics if found to exist.
+Several particles whose existence has been experimentally confirmed that are conjectured to be exotic hadrons and within the Standard Model.
+States of matter that are not commonly encountered, such as Bose–Einstein condensates, fermionic condensates, quantum spin liquid, string-net liquid, supercritical fluid, color-glass condensate,  quark–gluon plasma, Rydberg matter, Rydberg polaron and photonic matter but whose properties are entirely within the realm of mainstream physics.
+Forms of matter that are poorly understood, such as dark matter and mirror matter.
+Ordinary matter placed under high pressure, which may result in dramatic changes in its physical or chemical properties.
+Degenerate matter
+Exotic atoms
+<\doc>
+<doc id="49458709" title="Extra dimensions">
+In physics, extra dimensions are proposed additional space or time dimensions beyond the (3 + 1) typical of observed spacetime, such as the first attempts based on the Kaluza–Klein theory. Among theories proposing extra dimensions are:
+Large extra dimension, mostly motivated by the ADD model, by Nima Arkani-Hamed, Savas Dimopoulos, and Gia Dvali in 1998, in an attempt to solve the hierarchy problem. This theory requires that the fields of the Standard Model are confined to a four-dimensional membrane, while gravity propagates in several additional spatial dimensions that are large compared to the Planck scale.
+Warped extra dimensions, such as those proposed by the Randall–Sundrum model (RS), based on warped geometry where the universe is a five-dimensional anti-de Sitter space and the elementary particles except for the graviton are localized on a (3 + 1)-dimensional brane or branes.
+Universal extra dimension, proposed and first studied in 2000, assume, at variance with the ADD and RS approaches, that all fields propagate universally in the extra dimensions.
+Multiple time dimensions, i.e. the possibility that there might be more than one dimension of time, has occasionally been discussed in physics and philosophy, although those models have to deal with the problem of causality.
+String theory has one notable feature that requires extra dimensions for mathematical consistency. Spacetime is 26-dimensional in bosonic string theory, 10-dimensional in superstring theory, and 11-dimensional in supergravity theory and M-theory.
+<\doc>
+<doc id="2678192" title="Faddeev equations">
+The Faddeev equations, named after their inventor Ludvig Faddeev, are equations that describe, at once, all the possible exchanges/interactions in a system of three particles in a fully quantum mechanical formulation. They can be solved iteratively. 
+In general, Faddeev equations need as input a potential that describes the interaction between two individual particles. It is also possible to introduce a term in the equation in order to take also three-body forces into account. 
+The Faddeev equations are the most often used non-perturbative formulations of the quantum-mechanical three-body problem.
+Unlike the three body problem in classical mechanics, the quantum three body problem is uniformly soluble.
+In nuclear physics, the off the energy shell nucleon-nucleon interaction has been studied by analyzing (n,2n) and (p,2p) reactions on deuterium targets, using the Faddeev Equations.  The nucleon-nucleon interaction is expanded (approximated) as a series of separable potentials.  The Coulomb interaction between two protons is a special problem, in that its expansion in separable potentials does not converge, but this is handled by matching the Faddeev solutions to long range Coulomb solutions, instead of to plane waves.
+Separable potentials are interactions that do not preserve a particle's location.  Ordinary local potentials can be expressed as sums of separable potentials.  The physical nucleon-nucleon interaction, which involves exchange of mesons, is not expected to be either local or separable.
+<\doc>
+<doc id="671768" title="Faddeev–Popov ghost">
+In physics, Faddeev–Popov ghosts (also called Faddeev–Popov gauge ghosts or Faddeev–Popov ghost fields) are extraneous fields which are introduced into gauge quantum field theories to maintain the consistency of the path integral formulation. They are named after Ludvig Faddeev and Victor Popov.A more general meaning of the word ghost in theoretical physics is discussed in Ghost (physics).
+
+
+<\doc>
+<doc id="53730614" title="Family symmetries">
+In particle physics, family symmetries or horizontal symmetries are various discrete, global, or local symmetries between quark-lepton families or generations. While being conceptually useful, these symmetries are not yet finally confirmed. Some potentially relevant option considered in the literature may be associated with the local chiral SU(3)F family symmetry introduced in 1980 and further developed.  
+
+
+<\doc>
+<doc id="24702673" title="Fermi motion">
+The Fermi motion is the quantum motion of nucleons bound inside a nucleus. It was once posited as an explanation for the EMC effect.
+<\doc>
+<doc id="701934" title="Fermi's interaction">
+In particle physics, Fermi's interaction (also the Fermi theory of beta decay or the Fermi four-fermion interaction) is an explanation of the beta decay, proposed by Enrico Fermi in 1933. The theory posits four fermions directly interacting with one another (at one vertex of the associated Feynman diagram). This interaction explains beta decay of a neutron by direct coupling of a neutron with an electron, a neutrino (later determined to be an antineutrino) and a proton.Fermi first introduced this coupling in his description of beta decay in 1933.  The Fermi interaction was the precursor to the theory for the weak interaction where the interaction between the proton–neutron and electron–antineutrino is mediated by a virtual W− boson, of which the Fermi theory is the low-energy effective field theory.
+<\doc>
+<doc id="11529" title="Fermion">
+In particle physics, a fermion is a particle that follows Fermi–Dirac statistics and generally has half odd integer spin: spin 1/2, spin 3/2, etc. These particles obey the Pauli exclusion principle. Fermions include all quarks and leptons, as well as all composite particles made of an odd number of these, such as all baryons and many atoms and nuclei. Fermions differ from bosons, which obey Bose–Einstein statistics.
+Some fermions are elementary particles, such as the electrons, and some are composite particles, such as the protons. According to the spin-statistics theorem in relativistic quantum field theory, particles with integer spin are bosons, while particles with half-integer spin are fermions.
+In addition to the spin characteristic, fermions have another specific property: they possess conserved baryon or lepton quantum numbers. Therefore, what is usually referred to as the spin statistics relation is in fact a spin statistics-quantum number relation.As a consequence of the Pauli exclusion principle, only one fermion can occupy a particular quantum state at a given time. If multiple fermions have the same spatial probability distribution, then at least one property of each fermion, such as its spin, must be different. Fermions are usually associated with matter, whereas bosons are generally force carrier particles, although in the current state of particle physics the distinction between the two concepts is unclear.  Weakly interacting fermions can also display bosonic behavior under extreme conditions. At low temperature fermions show superfluidity for uncharged particles and superconductivity for charged particles.
+Composite fermions, such as protons and neutrons, are the key building blocks of everyday matter.
+The name fermion was coined by English theoretical physicist Paul Dirac from the surname of Italian physicist Enrico Fermi.
+<\doc>
+<doc id="2616675" title="Flavor-changing neutral current">
+In theoretical physics, flavor-changing neutral currents or flavour-changing neutral currents (FCNCs) are hypothetical interactions that change the flavor of a fermion without altering its electric charge.
+
+
+<\doc>
+<doc id="1928465" title="Flavour (particle physics)">
+In particle physics, flavour or flavor refers to the species of an elementary particle. The Standard Model counts six flavours of quarks and six flavours of leptons. They are conventionally parameterized with flavour quantum numbers that are assigned to all subatomic particles. They can also be described by some of the family symmetries proposed for the quark-lepton generations.
+
+
+<\doc>
+<doc id="2309594" title="Flipped SO(10)">
+Flipped SO(10) is a grand unified theory which is to standard SO(10) as flipped SU(5) is to SU(5).
+<\doc>
+<doc id="189951" title="Force carrier">
+In quantum field theory, force carriers or messenger particles or intermediate particles are particles that give rise to forces between other particles. These particles are bundles of energy (quanta) of a particular kind of field. There is one kind of field for every type of elementary particle. For instance, there is an electromagnetic field whose quanta are photons.  The concept is especially important in particle physics where the force carrier particles that mediate the electromagnetic, weak, and strong interactions are called gauge bosons.
+<\doc>
+<doc id="7702975" title="Frank–Tamm formula">
+The Frank–Tamm formula yields the amount of Cherenkov radiation emitted on a given frequency as a charged particle moves through a medium at superluminal velocity. It is named for Russian physicists Ilya Frank and Igor Tamm who developed the theory of the Cherenkov effect in 1937, for which they were awarded a Nobel Prize in Physics in 1958.
+When a charged particle moves faster than the phase speed of light in a medium, electrons interacting  with the particle can emit coherent photons while conserving energy and momentum. This process can be viewed as a decay. See Cherenkov radiation and nonradiation condition for an explanation of this effect.
+<\doc>
+<doc id="65471441" title="Froissart bound">
+In particle physics the Froissart bound, or Froissart limit, is a generic constraint that the total scattering cross section of two colliding high-energy particles cannot increase faster than c×ln2(s), with c a normalization constant and s the square of the center-of-mass energy (s is one of the three Mandelstam variables).
+<\doc>
+<doc id="10890" title="Fundamental interaction">
+In physics, the fundamental interactions, also known as fundamental forces, are the interactions that do not appear to be reducible to more basic interactions. There are four fundamental interactions known to exist:  the gravitational and electromagnetic interactions, which produce significant long-range forces whose effects can be seen directly in everyday life, and the strong and weak interactions, which produce forces at minuscule, subatomic distances and govern nuclear interactions. Some scientists hypothesize that a fifth force might exist, but these hypotheses remain speculative.Each of the known fundamental interactions can be described mathematically as a field. The gravitational force is attributed to the curvature of spacetime, described by Einstein's general theory of relativity. The other three are discrete quantum fields, and their interactions are mediated by elementary particles described by the Standard Model of particle physics.Within the Standard Model, the strong  interaction is carried by a particle called the gluon, and is responsible for quarks binding together to form hadrons, such as protons and neutrons.  As a residual effect, it creates the nuclear force that binds the latter particles to form atomic nuclei. The weak interaction is carried by particles called W and Z bosons, and also acts on the nucleus of atoms, mediating radioactive decay.  The electromagnetic force, carried by the photon, creates electric and magnetic fields, which are responsible for the attraction between orbital electrons and atomic nuclei which holds atoms together, as well as chemical bonding and electromagnetic waves, including visible light, and forms the basis for electrical technology. Although the electromagnetic force is far stronger than  gravity, it tends to cancel itself out within large objects, so over large (astronomical) distances gravity tends to be the dominant force, and is responsible for holding together the large scale structures in the universe, such as planets, stars, and galaxies.
+Many theoretical physicists believe these fundamental forces to be related and to become unified into a single force at very high energies on a minuscule scale, the Planck scale, but particle accelerators cannot produce the enormous energies required to experimentally probe this. Devising a common theoretical framework that would explain the relation between the forces in a single theory is perhaps the greatest goal of today's theoretical physicists. The weak and electromagnetic forces have already been unified with the electroweak theory of Sheldon Glashow, Abdus Salam, and Steven Weinberg for which they received the 1979 Nobel Prize in physics. Progress is currently being made in uniting the electroweak and strong fields within what is called a Grand Unified Theory (GUT).  A bigger challenge is to find a way to quantize the gravitational field, resulting in a theory of quantum gravity (QG) which would unite gravity in a common theoretical framework with the other three forces.  Some theories, notably string theory, seek both QG and GUT within one framework, unifying all four fundamental interactions along with mass generation within a theory of everything (ToE).
+
+
+<\doc>
+<doc id="6095269" title="G-factor (physics)">
+A g-factor (also called g value or dimensionless magnetic moment) is a dimensionless quantity that characterizes the magnetic moment and angular momentum of an atom, a particle or the nucleus. It is essentially a proportionality constant that relates the observed magnetic moment μ of a particle to its angular momentum quantum number and a unit of magnetic moment (to make it dimensionless), usually the Bohr magneton or nuclear magneton.
+<\doc>
+<doc id="430790" title="Gauge boson">
+In particle physics, a gauge boson is a force carrier, a bosonic particle that carries any of the fundamental interactions of nature, commonly called forces. Elementary particles, whose interactions are described by a gauge theory, interact with each other by the exchange of gauge bosons—usually as virtual particles.
+All known gauge bosons have a spin of 1; for comparison, the Higgs boson has spin zero. Therefore, all known gauge bosons are vector bosons.
+Gauge bosons are different from the other kinds of bosons: first, fundamental scalar bosons (the Higgs boson); second, mesons, which are composite bosons, made of quarks; third, larger composite, non-force-carrying bosons, such as certain atoms.
+<\doc>
+<doc id="2147801" title="Gell-Mann–Nishijima formula">
+The Gell-Mann–Nishijima formula (sometimes known as the NNG formula) relates the baryon number B, the strangeness S, the isospin I3 of quarks and hadrons to the electric charge Q. It was originally given by Kazuhiko Nishijima and Tadao Nakano in 1953, and led to the proposal of strangeness as a concept, which Nishijima originally called "eta-charge" after the eta meson. Murray Gell-Mann proposed the formula independently in 1956. The modern version of the formula relates all flavour quantum numbers (isospin up and down, strangeness, charm, bottomness, and topness) with the baryon number and the electric charge.
+<\doc>

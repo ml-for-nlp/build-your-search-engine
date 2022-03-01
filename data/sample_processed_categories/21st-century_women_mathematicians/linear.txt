@@ -1,0 +1,352 @@
+<doc id="40149193" title="Maleyka Abbaszadeh">
+Maleyka Mehdi qizi Abbaszadeh (Azerbaijani: Məleykə Abbaszadə, née Mustafayeva, born 1953, Baku) is the Chair of the State Students Admission Commission of Azerbaijan.
+<\doc>
+<doc id="47538197" title="Mina Aganagić">
+Mina Aganagić is a mathematical physicist who works as a professor in the Center for Theoretical Physics, the Department of Mathematics, the Department of Physics at the University of California, Berkeley.
+<\doc>
+<doc id="52742805" title="Ilka Agricola">
+Ilka Agricola (born August 8, 1973 in The Hague) is a German mathematician who deals with differential geometry and its applications in mathematical physics. She is dean of mathematics and computer science at the University of Marburg, where she has also been responsible for making public the university's collection of mathematical models.
+<\doc>
+<doc id="60478586" title="Laura Albert (academic)">
+Laura Albert (formerly Laura McLay) is a professor of Industrial and Systems Engineering at the University of Wisconsin-Madison in the College of Engineering. Albert is an expert in Operations Research, specializing solving and modeling discrete optimization problems arising from applications in homeland security, disaster management, emergency response, public services, and healthcare.
+<\doc>
+<doc id="3491366" title="Grace Alele-Williams">
+Grace Alele-Williams (born December 16, 1932) is an educator who made history as the First Nigerian Female Vice-Chancellor at the University of Benin.  She was also the first Nigerian woman to receive a doctorate degree. She is a professor of mathematics education.
+<\doc>
+<doc id="43075724" title="Stephanie B. Alexander">
+Stephanie Brewster Brewer Taylor Alexander is an American mathematician, a professor emerita of mathematics at the University of Illinois at Urbana–Champaign. Her research concerns differential geometry and metric spaces.
+<\doc>
+<doc id="54442688" title="Linda J. S. Allen">
+Linda Joy Svoboda Allen is an American mathematician and mathematical biologist, the Paul Whitfield Horn Professor of Mathematics and Statistics at Texas Tech University.
+<\doc>
+<doc id="44749903" title="Elizabeth S. Allman">
+Elizabeth Spencer Allman (born 1965) is an American mathematician. She is a professor of mathematics in the Department of Mathematics and Statistics at the University of Alaska Fairbanks; her research interests range from abstract algebra and algebraic statistics to biomathematics and phylogeny.
+<\doc>
+<doc id="48140876" title="Ann S. Almgren">
+Ann S. Almgren is an American applied mathematician who works as a senior scientist and group leader of the Center for Computational Sciences and Engineering at the Lawrence Berkeley National Laboratory. Her primary research interests are in computational algorithms for solving PDE's for fluid dynamics in a variety of application areas. Her current projects include the development and implementation of new multiphysics algorithms in high-resolution adaptive mesh codes that are designed for the
+latest multicore architectures.
+<\doc>
+<doc id="53960754" title="Astrid an Huef">
+Astrid an Huef is a German-born New Zealand mathematician who holds a Professorship at Victoria University of Wellington. Until 2017 she held the Chair of Pure Mathematics at the University of Otago. Her research interests include functional analysis, operator algebras, and dynamical systems. She was the president of the New Zealand Mathematical Society for the 2016–2017 term.
+<\doc>
+<doc id="58835216" title="Esther Arkin">
+Esther M. (Estie) Arkin is an Israeli–American mathematician and computer scientist whose research interests include operations research, computational geometry, combinatorial optimization, and the design and analysis of algorithms. She is a professor of applied mathematics and statistics at Stony Brook University. At Stony Brook, she also directs the undergraduate program in applied mathematics and statistics,
+and is an affiliated faculty member with the department of computer science.
+<\doc>
+<doc id="54503485" title="Marie-Claude Arnaud">
+Marie-Claude Arnaud-Delabrière (born 24 February 1963) is a French mathematician, specializing in dynamical systems. She is University Professor of Mathematics at the University of Avignon and a senior member of the Institut Universitaire de France.
+<\doc>
+<doc id="32743787" title="Michèle Audin">
+Michèle Audin (born 1954) is a French mathematician, writer, and a former professor. She has worked as a professor at the University of Geneva, the University of Paris-Saclay and most recently at l'Institut de recherche mathématique avancée (IRMA) in University of Strasbourg, where she performed research notably in the area of symplectic geometry.
+<\doc>
+<doc id="56443690" title="Hajer Bahouri">
+Hajer Bahouri (born 30 March 1958 in Tunis) is a Franco-Tunisian mathematician who is interested in partial differential equations. She is Director of Research at the National Center for Scientific Research and the Laboratory of Analysis and Applied Mathematics at the University Paris-Est-Créteil-Val-de-Marne.
+<\doc>
+<doc id="26414007" title="Rosemary A. Bailey">
+Rosemary A. Bailey  (born 1947) is a British statistician who works in the design of experiments and the analysis of variance and in related areas of combinatorial design, especially in association schemes. She has written books on the design of experiments, on association schemes, and on linear models in statistics.
+<\doc>
+<doc id="58512088" title="Jennifer Balakrishnan">
+Jennifer Shyamala Sayaka Balakrishnan is an American mathematician known for leading a team that solved the "cursed curve", a Diophantine equation that was "famously difficult" before her solution. More generally Balakrishnan specializes in algorithmic number theory and arithmetic geometry. She is Clare Boothe Luce Assistant Professor at Boston University, and a Sloan Research Fellow.
+
+
+<\doc>
+<doc id="24870391" title="Deborah Loewenberg Ball">
+Deborah Loewenberg Ball is an educational researcher noted for her work in mathematics instruction and the mathematical preparation of teachers. From 2017 to 2018 she serves as president of the American Educational Research Association. She served as dean of the School of Education at the University of Michigan from 2005 to 2016, and she currently works as William H. Payne Collegiate Professor of education. Ball directs TeachingWorks, a major project at the University of Michigan to redesign the way that teachers are prepared for practice, and to build materials and tools that will serve the field of teacher education broadly. In a sometimes divisive field,
+Ball has a reputation of being respected by both mathematicians and educators. She is also an extremely well respected mentor to junior faculty members and to graduate students.
+<\doc>
+<doc id="55711992" title="Hélène Barcelo">
+Hélène Barcelo (born 1954) is a mathematician from Québec specializing in algebraic combinatorics. Within that field, her interests include combinatorial representation theory, homotopy theory, and arrangements of hyperplanes.
+She is a professor emeritus of mathematics at Arizona State University, and deputy director of the Mathematical Sciences Research Institute (MSRI). She was editor-in-chief of the Journal of Combinatorial Theory, Series A, from 2001 to 2009.
+<\doc>
+<doc id="7097464" title="Ruth Aaronson Bari">
+Ruth Aaronson Bari (November 17, 1917 – August 25, 2005) was an American mathematician known for her work in graph theory and algebraic homomorphisms. She was a professor at George Washington University, beginning in 1966
+
+
+<\doc>
+<doc id="56808934" title="Janet Barnett">
+Janet Heine Barnett is a professor of mathematics at Colorado State University–Pueblo, interested in set theory, mathematical logic, the history of mathematics, women in mathematics, and mathematics education.
+<\doc>
+<doc id="42860487" title="Lida Barrett">
+Lida Baker Kittrell Barrett (May 21, 1927 – January 28, 2021) was an American mathematics professor and administrator. She served on many committees and boards and contributed to mathematics, mathematics education, and increasing the participation of members of underrepresented groups in mathematics. She served as president of the Mathematical Association of America (MAA) in 1989 and 1990.
+<\doc>
+<doc id="55711732" title="Estelle Basor">
+Estelle Lucille Basor (born 1947) is an American mathematician interested in operator theory and the theory of random matrices.
+She is professor emeritus of mathematics at the California Polytechnic State University (Cal Poly), and deputy director of the American Institute of Mathematics.
+<\doc>
+<doc id="44795862" title="Patricia E. Bauman">
+Patricia E. Bauman is an American mathematician who studies partial differential equations that model the behavior of liquid crystals and superconductors. She is a professor of mathematics at Purdue University.
+<\doc>
+<doc id="28654438" title="Eva Bayer-Fluckiger">
+Eva Bayer-Fluckiger (born 25 June 1951) is a Hungarian and Swiss mathematician. She is an Emmy Noether Professor Emeritus at École Polytechnique Fédérale de Lausanne. She has worked on several topics in topology, algebra and number theory, e.g. on the theory of knots, on lattices, on quadratic forms and on Galois cohomology. Along with Raman Parimala, she proved Serre's conjecture II regarding the Galois cohomology of a simply-connected semisimple algebraic group  when such a group is of classical type.
+<\doc>
+<doc id="59100464" title="Janet Beery">
+Janet Lynn Beery is an American mathematician and historian of mathematics. She is a professor of mathematics and computer science at the University of Redlands, editor-in-chief of mathematics history journal Convergence, and author of a book on the mathematics of Thomas Harriot.
+<\doc>
+<doc id="57895286" title="Amel Ben Abda">
+Amel Ben Abda is a Professor of Mathematics at the National Engineering School of Tunis. She was the first person in Tunisia to earn a PhD in applied mathematics. She is the Tunisian representative of the steering committee of the International Laboratory for Computer Sciences and Applied Mathematics on the advisory board of the Tunisian Woman Mathematician Association.
+<\doc>
+<doc id="38764823" title="Georgia Benkart">
+Georgia McClure Benkart (born 1949) is an American mathematician who is known for her work in the structure and representation theory of Lie algebras and related algebraic structures.
+She has published over 100 journal articles and co-authored 3 American Mathematical Society Memoirs in four broad categories: modular Lie algebras; combinatorics of Lie algebra representations; graded algebras and superalgebras; and quantum groups and related structures.
+<\doc>
+<doc id="45066066" title="Bonnie Berger">
+Bonnie Anne Berger is an American mathematician and computer scientist, who works as the Simons professor of mathematics and professor of electrical engineering and computer science at the Massachusetts Institute of Technology. Her research interests are in algorithms, bioinformatics and computational molecular biology.
+
+
+<\doc>
+<doc id="59023346" title="Julie Bergner">
+Julia Elizabeth Bergner is a mathematician specializing in algebraic topology, homotopy theory, and higher category theory. She is a professor of mathematics at the University of Virginia.
+<\doc>
+<doc id="40970201" title="Nicole Berline">
+Nicole Berline (born 1944) is a French mathematician.
+<\doc>
+<doc id="53835306" title="Natalia Berloff">
+Natalia G. Berloff is a professor of applied mathematics at the University of Cambridge.  Her research includes the use of polaritons to simulate structures such as the classical XY model.
+
+
+<\doc>
+<doc id="37498758" title="Andrea Bertozzi">
+Andrea Louise Bertozzi (born 1965) is an American mathematician. Her research interests are in non-linear partial differential equations and applied mathematics.
+<\doc>
+<doc id="34942573" title="Sara Billey">
+Sara Cosette Billey (born February 6, 1968 in Alva, Oklahoma, United States) is an American mathematician working in algebraic combinatorics. She is known for her contributions on Schubert polynomials, singular loci of Schubert varieties, Kostant polynomials, and Kazhdan–Lusztig polynomials often using computer verified proofs. She is currently a professor of mathematics at the University of Washington.Billey did her undergraduate studies at the Massachusetts Institute of Technology, graduating in 1990.
+She earned her Ph.D. in mathematics in 1994 from the University of California, San Diego, under the joint supervision of Adriano Garsia and Mark Haiman. She returned to MIT as a postdoctoral researcher with Richard P. Stanley, and continued there as an assistant and associate professor until 2003, when she moved to the University of Washington.In 2012, she became a fellow of the American Mathematical Society.
+<\doc>
+<doc id="8625257" title="Joan Birman">
+Joan Sylvia Lyttle Birman (born May 30, 1927, in New York City) is an American mathematician, specializing in low-dimensional topology. She has made contributions to the study of knots, 3-manifolds, mapping class groups of surfaces, geometric group theory, contact structures and dynamical systems. Birman is currently research professor emerita at Barnard College, Columbia University, where she has been since 1973.
+
+
+<\doc>
+<doc id="63686365" title="Karen M. Bliss">
+Karen M. Bliss is an American applied mathematician currently at Virginia Military Institute in Lexington, Virginia who specializes in biomedical applications and materials science. She has co-authored many modeling handbooks, most notably, Math Modeling: Getting Started and Getting Solutions, for Society for Industrial and Applied Mathematics (SIAM) in 2014 which is used by teachers and students learning the basics along with those participating in the Mathematical Contest in Modeling.
+<\doc>
+<doc id="27606754" title="Mary L. Boas">
+Mary Layne Boas (1917–2010) was an American mathematician and physics professor best known as the author of Mathematical Methods in the Physical Sciences (1966), an undergraduate textbook that was still widely used in college classrooms as of 1999.
+<\doc>
+<doc id="51468846" title="Natashia Boland">
+Natashia Lesley Boland (born 1967) is a professor of mathematics at Georgia Institute of Technology.   Boland completed a PhD at the University of Western Australia in 1992, and afterwards she pursued postdoctoral research at the University of Waterloo in Canada, at the Georgia Institute of Technology in the USA.  She spent 13 years at the University of Melbourne and then from 2008 to 2014 worked at the University of Newcastle.  She has made contributions to transportation scheduling, modeling of infrastructure networks, planning pricing strategies for demand, and optimization for environmental modeling.
+<\doc>
+<doc id="66261353" title="Petra Bonfert-Taylor">
+Petra Bonfert-Taylor is a German-born mathematician known for research in complex analysis and her work in web development for the International Mathematical Union (IMU) Committee for Women in Mathematics. She is professor of engineering and Associate Dean of Diversity and  Inclusion at the Thayer School of Engineering at Dartmouth College in Hanover, New Hampshire.
+<\doc>
+<doc id="54249520" title="Liliana Borcea">
+Liliana Borcea is the Peter Field Collegiate Professor of Mathematics at the University of Michigan. Her research interests are in scientific computing and applied mathematics, including the scattering and transport of electromagnetic waves.
+<\doc>
+<doc id="48624090" title="Mireille Bousquet-Mélou">
+Mireille Bousquet-Mélou (born May 12, 1967) is a French mathematician who specializes in enumerative combinatorics and who works as a senior researcher for the Centre national de la recherche scientifique (CNRS) at the computer science department (LaBRI) of the University of Bordeaux.
+<\doc>
+<doc id="64028910" title="Elette Boyle">
+Elette Boyle is an American and Israeli computer scientist and cryptographer, known for her research on secret sharing, digital signatures, and obfuscation. She is a professor of computer science at the Interdisciplinary Center Herzliya, where she directs the Center for Foundations and Applications of Cryptographic Theory.
+<\doc>
+<doc id="45422609" title="Bodil Branner">
+Bodil Branner  (born 5 February 1943, in Aarhus) is a retired Danish mathematician, one of the founders of European Women in Mathematics and a former chair of the Danish Mathematical Society. Her research concerned holomorphic dynamics and the history of mathematics.
+<\doc>
+<doc id="40807599" title="Susanne Brenner">
+Susanne Cecelia Brenner is an American mathematician, whose research concerns the finite element method and related techniques for the numerical solution of differential equations. She is a Boyd Professor at Louisiana State University.  Previously, she held the Nicholson Professorship of Mathematics and the Michael F. and Roberta Nesbit McDonald Professorship at Louisiana State University, She currently chairs the editorial committee of the journal Mathematics of Computation.   During 2021-2022 she is serving as  President of the Society for Industrial and Applied Mathematics (SIAM).
+<\doc>
+<doc id="24557812" title="Kathrin Bringmann">
+Kathrin Bringmann (born 8 May 1977) is a German number theorist in the University of Cologne, Germany, who has made fundamental contributions to the theory of mock theta functions.
+<\doc>
+<doc id="65746714" title="Alina Bucur">
+Alina Ioana Bucur is a Romanian-born mathematician and an associate professor of mathematics at the University of California, San Diego. Bucur's research is in analytic number theory with an emphasis on arithmetic statistics.
+<\doc>
+<doc id="50494257" title="Annalisa Buffa">
+Annalisa Buffa (14 February 1973) is an Italian mathematician, specializing in numerical analysis and partial differential equations (PDE). She is a professor of mathematics at EPFL (École Polytechnique Fédérale de Lausanne) and hold the Chair of Numerical Modeling and Simulation.
+<\doc>
+<doc id="38017451" title="Leone Burton">
+Leone Minna Burton (née Gold; 14 September 1936 – 1 December 2007) was a professor of education in mathematics and science, working in London teacher education colleges in the 1970s, the Open University in the 1980s and, from 1992, the University of Birmingham.   At the South Bank Polytechnic (now London South Bank University);she helped establish the first MSc in Mathematics Education in the UK. After retiring in 2001 she became Honorary Professor at Kings College London, and Visiting Fellow in the Cambridge University Faculty of Education. She was noted for her influence as a researcher and doctoral supervisor, setting up national and international research networks in the developing area of mathematics education.
+<\doc>
+<doc id="44714408" title="Margaret K. Butler">
+Margaret Kampschaefer Butler (March 27, 1924 – March 8, 2013) was a mathematician who participated in creating and updating computer software. During the early 1950s, Butler contributed to the development of early computers. Butler was the first female fellow at the American Nuclear Society and director of the National Energy Software Center at Argonne. Butler held leadership positions within multiple scientific organizations and women's groups. She was the creator and director of the National Energy Software Center. Here, Butler operated an exchange for the editing of computer programs in regards to nuclear power and developed early principles for computer technology.
+<\doc>
+<doc id="45284801" title="Maria-Carme Calderer">
+Maria-Carme T. Calderer is a professor of mathematics at University of Minnesota. Her research concerns applied mathematics.
+<\doc>
+<doc id="61410076" title="María Antònia Canals">
+María Antònia Canals (born 15 November 1930) is a Spanish mathematician. Her work in recreational mathematics served as the basis for the eponymous Canals Project. Among other honors, she has been awarded the Creu de Sant Jordi and the Medal of Honor of Barcelona.
+<\doc>
+<doc id="48211279" title="Sunčica Čanić">
+Sunčica Čanić is a Croatian-American mathematician, the Hugh Roy and Lillie Cranz Cullen Distinguished Professor of Mathematics and Director of the Center for Mathematical Biosciences at the University of Houston, and Professor of Mathematics at the University of California, Berkeley. She is known for her work in mathematically modeling the human cardiovascular system and medical devices for it.
+<\doc>
+<doc id="44896201" title="Ana Caraiani">
+Ana Caraiani (born 1985) is a Romanian-American mathematician, who is a Royal Society University Research Fellow and Reader at Imperial College London. Her research interests include algebraic number theory and the Langlands program.
+<\doc>
+<doc id="57517434" title="Alessandra Celletti (mathematician)">
+Alessandra Celletti (born 12 February 1962) is an Italian mathematician. She earned a master's degree in mathematics in 1984 at the University of Rome La Sapienza, and a PhD in 1989 at the Swiss Federal Institute of Technology in Zurich (ETH) under the supervision of Jürgen Moser and Jörg Waldvogel. Her research activity concerns dynamical systems, Kolmogorov–Arnold–Moser (KAM) theory, and celestial mechanics.
+She is a founding member of the Italian Society of Celestial Mechanics and Astrodynamics, which she chaired from 2001 to 2013. Since 1993 she has coordinated the international CELMEC meetings. She is full professor of Mathematical Physics at the University of Rome Tor Vergata. 
+Since 2010 she has been an honorary member of the "Celestial Mechanics Institute". Since 2016 she is editor-in-chief of the journal "Celestial Mechanics and Dynamical Astronomy". In 2012 she was an invited speaker at the 6th European Congress of Mathematics. In 2015 she was elected vice-President and in 2018 became President of the Scientific Committee in Celestial Mechanics of the International Astronomical Union. Since 2012 she has been a member of the Scientific Committee of the European Women in Mathematics (EMS/EWM) and since 2017 she has chaired the Women in Mathematics Committee of the European Mathematical Society.
+Since April 2020 she is member of the Governing Board and Vice-President of “ANVUR - Italian National Agency for the Evaluation of Universities and Research Institutes”. 
+In 2007, her book Ordine e caos nel sistema solare in collaboration with Ettore Perozzi was a finalist for the Galileo Popular Science Prize.
+The asteroid 2005 DJ1 has been named in her honour (117539 Celletti).
+
+
+<\doc>
+<doc id="53725425" title="Mei-Chu Chang">
+Mei-Chu Chang is a mathematician who works in algebraic geometry and combinatorial number theory.
+<\doc>
+<doc id="24637925" title="Sun-Yung Alice Chang">
+Sun-Yung Alice Chang (Chinese: 張聖容; pinyin: Zhāng Shèngróng, Hakka: Chông Sṳn-yùng, [t͡soŋ sɨn juŋ]; born 1948) is a Taiwanese American mathematician specializing in aspects of mathematical analysis ranging from harmonic analysis and partial differential equations to differential geometry.  She is the Eugene Higgins Professor of Mathematics at Princeton University.
+<\doc>
+<doc id="48578990" title="Vyjayanthi Chari">
+Vyjayanthi Chari (born 1958) is an Indian–American professor of mathematics at the University of California, Riverside, known for her research in representation theory and quantum algebra. In 2015 she was elected as a fellow of the American Mathematical Society.
+<\doc>
+<doc id="23107812" title="Jennifer Tour Chayes">
+Jennifer Tour Chayes is the University of California, Berkeley Associate Provost for the Division of Computing, Data Science, and Society and Dean of the School of Information. She was formerly a Technical Fellow and Managing Director of Microsoft Research New England in Cambridge, Massachusetts, which she founded in 2008, and Microsoft Research New York City, which she founded in 2012.Chayes is best known for her work on phase transitions in discrete mathematics and computer science, structural and dynamical properties of self-engineered networks, and algorithmic game theory. She is considered one of the world's experts in the modeling and analysis of dynamically growing graphs.Chayes joined Microsoft Research in 1997, when she co-founded the Theory Group. She received her Ph.D. in mathematical physics at Princeton University in 1983. She is Affiliate Professor of Mathematics and Physics at the University of Washington, and was for many years Professor of Mathematics at UCLA. She is an author on almost 120 scientific papers and the inventor on more than 25 patents.
+<\doc>
+<doc id="56705936" title="Margaret Cheney">
+Margaret Cheney (born 1955) is an American mathematician whose research involves inverse problems. She is Yates Chair and Professor of Mathematics at Colorado State University.
+<\doc>
+<doc id="51249774" title="Miranda Cheng">
+Miranda Chih-Ning Cheng (Chinese: 程之寧; born 6 June 1979, Taipei) is a Taiwanese-born and Dutch-educated mathematician and theoretical physicist who works as an assistant professor at the University of Amsterdam. She is known for formulating the umbral moonshine conjectures and for her work on the connections between K3 surfaces and string theory.
+<\doc>
+<doc id="61933693" title="Elaine Chew">
+Elaine Chew is an operations researcher and pianist focused on the study of musical structures as they apply to musical performance, composition and cognition, and in the analysis of electrocardiographic traces of arrhythmia. She is currently a senior researcher at the Science et Technologies de la Musique et du Son (STMS) Laboratory, where she is affiliated with the Centre National de la Recherche Scientifique (CNRS), which together with the Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Sorbonne University, and the French Ministry of Culture constitute the joint research laboratory.
+<\doc>
+<doc id="45092410" title="Phyllis Chinn">
+Phyllis Zweig Chinn (née Zweig, born September 26, 1941) is an American mathematician who holds a professorship in mathematics, women's studies, and teaching preparation at Humboldt State University in California. Her publications concern graph theory, mathematics education, and the history of women in mathematics.
+<\doc>
+<doc id="45448939" title="YoungJu Choie">
+YoungJu Choie (Korean: 최영주, born June 15, 1959) is a South Korean mathematician who works as a professor of mathematics at the Pohang University of Science and Technology (POSTECH). Her research interests include number theory and modular forms.
+<\doc>
+<doc id="246562" title="Fan Chung">
+Fan-Rong King Chung Graham (Chinese: 金芳蓉; pinyin: Jīn Fāngróng; born October 9, 1949), known professionally as Fan Chung, is a Taiwanese-born American mathematician who works mainly in the areas of spectral graph theory, extremal graph theory and  random graphs, in particular in generalizing the Erdős–Rényi model for graphs with general degree distribution (including power-law graphs in the study of large information networks).
+
+
+<\doc>
+<doc id="45285384" title="Mónica Clapp">
+Mónica Clapp is a mathematician at the Universidad Nacional Autónoma de México (UNAM) known for her work in nonlinear partial differential equations and algebraic topology.
+<\doc>
+<doc id="58167742" title="Jeanne N. Clelland">
+Jeanne A. Nielsen Clelland (born 1970) is an American mathematician specializing in differential geometry and its applications to differential equations. She is a professor of mathematics at the University of Colorado Boulder, and the author of a textbook on moving frames, From Frenet to Cartan: The Method of Moving Frames (Graduate Studies in Mathematics 178, American Mathematical Society, 2017).
+<\doc>
+<doc id="58968583" title="Sally Cockburn">
+Sally Patricia Cockburn (born 1960) is a mathematician whose research ranges from algebraic topology and set theory to geometric graph theory and combinatorial optimization.  A Canadian immigrant to the US, she is a professor of mathematics at Hamilton College, and chair of the mathematics department at Hamilton.
+<\doc>
+<doc id="15843438" title="Amy Cohen-Corwin">
+Amy Cohen-Corwin (formerly known as Amy C. Murray) is a professor emerita of mathematics at Rutgers University and former Dean of University College at Rutgers University. Dr. Cohen-Corwin is especially interested in the Korteweg–de Vries equation, cubic Schrödinger equation on the line, and improving undergraduate education, especially for future teachers. She worked on Project SEED whilst at the University of California, Berkeley in 1970 which fueled her interest in Mathematics education.Dr. Cohen-Corwin has held numerous organizational positions, including Co-organizer for the AIM (American Institute of Mathematics) and NSF (National Science Foundation)-sponsored workshop "Finding and Keeping Graduate Students in the Mathematical Sciences."
+<\doc>
+<doc id="58897425" title="Elaine Cohen">
+Elaine Cohen is an American researcher in geometric modeling and computer graphics, known for her pioneering research on B-splines. She is a professor in the school of computing at the University of Utah.
+<\doc>
+<doc id="6651645" title="Marion Cohen">
+Marion Cohen (born 1943) is an American poet whose pen name is Marion Deutsche Cohen.  She is also a mathematician with a Ph.D in distribution theory from Wesleyan University. 
+Cohen has published 20 books of poetry and prose. She writes poetry and creative non-fiction, in particular memoir and has written about pregnancy loss, spousal illness/caregiving, and her passion for mathematics. She has studied the relationship between art and mathematics, and has taught math and writing at Arcadia University in Glenside, PA. Cohen has studied the relationship between art and mathematics and has developed a course called Truth and Beauty: Mathematics in Literature.
+<\doc>
+<doc id="57537274" title="Alina Carmen Cojocaru">
+Alina Carmen Cojocaru is a Romanian mathematician who works in number theory and is known for her research on elliptic curves, arithmetic geometry, and sieve theory. She is a professor of mathematics at the University of Illinois at Chicago and a researcher in the Institute of Mathematics of the Romanian Academy.Cojocaru earned her Ph.D. from Queen's University in Kingston, Ontario, in 2002. Her dissertation, Cyclicity of Elliptic Curves Modulo p, was jointly supervised by M. Ram Murty and Ernst Kani.
+<\doc>
+<doc id="64307289" title="Caroline Colijn">
+Caroline Colijn is a Canadian mathematician and epidemiologist. She holds a Canada 150 Research Chair in Mathematics for Evolution, Infection and Public Health at Simon Fraser University (SFU).
+<\doc>
+<doc id="58845863" title="Caterina Consani">
+Caterina (Katia) Consani (born 1963) is an Italian mathematician specializing in arithmetic geometry. She is a professor of mathematics at Johns Hopkins University.
+<\doc>
+<doc id="54464632" title="Pamela Cook">
+Pamela Cook (Leslie Pamela Cook-Ioannidis) is an American mathematician, the Unidel Professor of Mathematical Sciences and Professor of Chemical Engineering at the University of Delaware. She was the president of the Society for Industrial and Applied Mathematics (SIAM) for 2015–2016. Her research concerns fluid dynamics.
+
+
+<\doc>
+<doc id="59147889" title="Carla Cotwright-Williams">
+Carla Denise Cotwright-Williams (born November 6, 1973) is an American mathematician who works as a Senior Data Scientist for the US government.
+
+
+<\doc>
+<doc id="56598696" title="Annalisa Crannell">
+Annalisa Crannell is an American mathematician, and an expert in the mathematics of water waves, chaos theory, and geometric perspective. She is a professor of mathematics at Franklin & Marshall College.
+<\doc>
+<doc id="58916409" title="Alissa Crans">
+Alissa Susan Crans is an American mathematician specializing in higher-dimensional algebra. She is a professor of mathematics at Loyola Marymount University, and the associate director of Project NExT, a program of the Mathematical Association of America to mentor post-doctoral mathematicians, statisticians, and mathematics teachers.
+<\doc>
+<doc id="887461" title="Marianna Csörnyei">
+Marianna Csörnyei (born October 8, 1975 in Budapest) is a Hungarian mathematician who works as a professor at the University of Chicago. She does research in real analysis, geometric measure theory, and geometric nonlinear functional analysis. She proved the equivalence of the zero measure notions of infinite dimensional Banach spaces.
+<\doc>
+<doc id="57351611" title="Ruth F. Curtain">
+Ruth F. Curtain (16 July 1941 – 18 March 2018) was an Australian mathematician who worked for many years in the Netherlands as a professor of mathematics at the University of Groningen. Her research concerned infinite-dimensional linear systems.
+<\doc>
+<doc id="58042119" title="Carina Curto">
+Carina Curto (born 15 April 1978) is an American mathematician, a professor at Pennsylvania State University, and a Sloan Research Fellow. She is known for her work on mathematical neuroscience, including the applications of mathematics in both theoretical and computational neuroscience. Her recent work is funded by the BRAIN Initiative. She is an Associate Editor at SIAGA, a SIAM journal on Applied Algebra and Geometry.
+<\doc>
+<doc id="66646913" title="Pallavi Dani">
+Pallavi Dani is an Indian-American mathematician and an associate professor of mathematics at Louisiana State University (LSU) in Baton Rouge, Louisiana.  Her research area is geometric group theory; in particular, she studies quasi-isometry invariants of groups.
+
+
+<\doc>
+<doc id="53761797" title="Donatella Danielli">
+Donatella Danielli (born 1966) is a professor of mathematics at Purdue University and is known for her contributions to partial differential equations, calculus of variations and geometric measure theory, with specific emphasis on free boundary problems.  She received a Laurea cum Laude in Mathematics from the University of Bologna, Italy in 1989.  She completed her doctorate in 1999 at Purdue, under the supervision of Carlos Kenig. Before joining the Purdue University faculty in 2001, she held positions at The Johns Hopkins University and at the Institut Mittag-Leffler in Sweden. She was also a visiting fellow at the Isaac Newton Institute for Mathematical Sciences in 2014.
+She is the creator and organizer of the Symposia on Analysis and PDEs and of the Women in Mathematics Days, both at Purdue University. Her mathematics genealogy ID is 52294 .
+<\doc>
+<doc id="1430989" title="Ingrid Daubechies">
+Baroness Ingrid Daubechies ( doh-bə-SHEE; French: [dobʃi]; born 17 August 1954) is a Belgian physicist and mathematician. She is best known for her work with wavelets in image compression.
+Daubechies is recognized for her study of the mathematical methods that enhance image-compression technology. She is a member of the National Academy of Engineering, the National Academy of Sciences and the American Academy of Arts and Sciences. She is also a 1992 MacArthur Fellow.
+The name Daubechies is widely associated with the orthogonal Daubechies wavelet and the biorthogonal CDF wavelet. A wavelet from this family of wavelets is now used in the JPEG 2000 standard.
+Her research involves the use of automatic methods from both mathematics, technology and biology to extract information from samples like bones and teeth. She also developed sophisticated image processing techniques used to help establish the authenticity and age of some of the world's most famous works of art including paintings by Vincent van Gogh and Rembrandt.
+
+
+<\doc>
+<doc id="58740753" title="Penny J. Davies">
+Penelope Jane Davies  is a Scottish mathematician who in 2009 became the second female president of the Edinburgh Mathematical Society, after Elizabeth McHarg. Her research involves numerical simulation of the partial differential equations describing wave scattering and elastic stability and biomechanical modelling. She is a senior lecturer in mathematics and statistics at the University of Strathclyde.
+<\doc>
+<doc id="47321570" title="Valeria de Paiva">
+Valeria Correa Vaz de Paiva is a Brazilian mathematician, logician, and computer scientist.
+Her work includes research on logical approaches to computation, especially using category theory, 
+knowledge representation and natural language semantics, and functional programming with a focus on foundations and type theories.
+<\doc>
+<doc id="47725297" title="Lisette de Pillis">
+Lisette G. de Pillis is an American mathematician at Harvey Mudd College and holds the Norman F. Sprague, Jr. Professorship of Life Sciences at Harvey Mudd. She chaired the Department of Mathematics in 2008-2009 and again from 2014 to 2019. She directed the Harvey Mudd College Global Clinic program from 2009 to 2014.  She is also the co-director of the Harvey Mudd College Center for Quantitative Life Sciences.
+<\doc>
+<doc id="56706426" title="Ermelinda DeLaViña">
+Ermelinda DeLaViña is an American mathematician specializing in graph theory.
+She is a professor in the Computer and Mathematical Sciences Department of the University of Houston–Downtown, where she is also Associate Dean of the College of Science and Technology.
+<\doc>
+<doc id="58699727" title="Jacqueline Dewar">
+Jacqueline M. Dewar (née Deveny) is an American mathematician and mathematics educator known for her distinguished teaching and her mentorship of women in mathematics. She is a professor emerita of mathematics at Loyola Marymount University.
+<\doc>
+<doc id="56616270" title="Caren Diefenderfer">
+Caren Lea Diefenderfer (January 18, 1952 – March 30, 2017) was an American mathematician known for her efforts to promote numeracy.
+<\doc>
+<doc id="27782728" title="Irit Dinur">
+Irit Dinur (Hebrew: אירית דינור) is an Israeli mathematician. She is professor of computer science at the Weizmann Institute of Science.  Her research is in foundations of computer science and in combinatorics, and especially in probabilistically checkable proofs and hardness of approximation.
+
+
+<\doc>
+<doc id="26230372" title="Annette Dobson">
+Annette Jane Dobson  (born 1945) is a Professor of Biostatistics in the University of Queensland's Centre for Longitudinal and Life Course Research (CLLR) in the School of Public Health. At her institution, she is the Head of teaching programs and a Management Executive in the Management Committee.  Dobson was Director of the Australian Longitudinal Study on Women's Health from 1995 to 2013. She is a highly cited publication author, a book author, and has received an Australia Day award.
+<\doc>
+<doc id="63928099" title="Lori E. Dodd">
+Lori Elizabeth Dodd is an American mathematical statistician specialized in clinical trials methodology, statistical analysis of genomic data, design of clinical trials using biomarkers and imaging modalities, and statistical methods for analyzing biomarkers. She is a statistician in the biostatistics research branch at the National Institute of Allergy and Infectious Diseases.
+<\doc>
+<doc id="56654209" title="Suzanne Dorée">
+Suzanne Ingrid Dorée is a professor of mathematics at Augsburg University, where she is also chair of the Department of Mathematics, Statistics, and Computer Science,.  She is chair of the Congress of the Mathematical Association of America and, as such, serves on its board of directors and the Section Visitors Program (Invited Speakers). Her doctoral research concerned group theory; she has also published in mathematics education.
+<\doc>
+<doc id="58880695" title="Malgorzata Dubiel">
+Malgorzata Dubiel is a Polish mathematician and mathematics educator who works as a senior lecturer at Simon Fraser University in Vancouver, Canada.
+<\doc>
+<doc id="52561701" title="Moon Duchin">
+Moon Duchin is an American mathematician who works as an associate professor at Tufts University in Medford, Massachusetts. Her mathematical research concerns geometric topology, geometric group theory, and Teichmüller theory. She is also interested in the cultural studies, philosophy, and history of science and mathematics. Duchin is one of the core faculty members and serves as director of the Science, Technology, and Society program at Tufts. She has done significant research on the mathematics of redistricting and gerrymandering, and founded a research group to advance these mathematical studies and their nonpartisan application in the real world of US politics.
+<\doc>
+<doc id="51038090" title="Vanja Dukic">
+Vanja Dukic is an expert in computational statistics and mathematical epidemiology who works as a professor of applied mathematics at the University of Colorado Boulder. Her research includes work on using internet search engine access patterns to track diseases, and on the effects of climate change on the spread of diseases.
+Dukic earned a bachelor's degree in finance and actuarial mathematics from Bryant University in 1995.
+She completed her doctorate at Brown University in 2001, under the joint supervision of biostatisticians Constantine Gatsonis and  Joseph Hogan. She worked as a faculty member in the biostatistics program of the Department of Public Health Sciences at the University of Chicago from 2001 to 2010, before moving to Colorado.In 2015 she was elected as a Fellow of the American Statistical Association "for important contributions to Bayesian modeling of complex processes and analysis of Big Data, substantive and collaborative research in infectious diseases and climate change, and service to the profession, including excellence in editorial work."
+<\doc>
+<doc id="44832995" title="Ioana Dumitriu">
+Ioana Dumitriu (born July 6, 1976) is a Romanian-American mathematician who works as a professor of mathematics at the University of California, San Diego. Her research interests include the theory of random matrices, numerical analysis, scientific computing, and game theory.
+<\doc>
+<doc id="1551099" title="Annie Easley">
+Annie J. Easley (April 23, 1933 – June 25, 2011) was an American computer scientist, mathematician, and rocket scientist. She worked for the Lewis Research Center (now Glenn Research Center) of the National Aeronautics and Space Administration (NASA) and its predecessor, the National Advisory Committee for Aeronautics (NACA). She was a leading member of the team which developed software for the Centaur rocket stage, and was one of the first African-Americans to work
+
+at NASA.
+
+
+<\doc>
+<doc id="53761942" title="Kirsten Eisenträger">
+Anne Kirsten Eisenträger is a professor of mathematics at The Pennsylvania State University, known for her research on computational number theory, Hilbert's tenth problem, and applications in cryptography.
+Eisenträger earned a diploma in mathematics in 1996 from the University of Tübingen. She completed her doctorate in 2003 from the University of California, Berkeley; her dissertation, entitled Hilbert’s Tenth Problem and Arithmetic Geometry, was supervised by Bjorn Poonen. After temporary positions at the Institute for Advanced Study and the University of Michigan, she joined the Pennsylvania State University faculty in 2007.Eisenträger appears in the documentary film Julia Robinson and Hilbert's Tenth Problem (2008). In 2017, she became a Fellow of the American Mathematical Society "for contributions to computational number theory and number-theoretic undecidability".
+<\doc>
+<doc id="59133796" title="Susan S. Ellenberg">
+Susan S. Ellenberg is an American statistician specializing in the design of clinical trials and in the safety of medical products.
+She is a professor of biostatistics, medical ethics and health policy in the Perelman School of Medicine at the University of Pennsylvania. She was the 1993 president of the Society for Clinical Trials and the 1999 President of the Eastern North American Region of the International Biometric Society.
+<\doc>
+<doc id="56013267" title="Jo Ellis-Monaghan">
+Joanna Anthony Ellis-Monaghan is an American mathematician and mathematics educator whose research interests include graph polynomials and topological graph theory. She is a professor of mathematics at the Korteweg-de Vries Institute for Mathematics of the University of Amsterdam.
+<\doc>

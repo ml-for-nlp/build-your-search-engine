@@ -1,0 +1,401 @@
+<doc id="6911194" title="List of commercial video games released as freeware">
+This is a list of commercial video games released as freeware; games that, in their original license, were not considered freeware, but were re-released at a later date with a freeware license, sometimes as publicity for a forthcoming sequel or compilation release.
+Some of the following games are not freely redistributable software, as they have only been made available as a free download as freeware, but may only be downloaded from certain websites and with the explicit permission of the copyright owner. Consult the software license agreement.
+For games that were originally released as freeware, see List of freeware video games. For free and open-source games, and proprietary games re-released as FLOSS, see List of open source video games. For proprietary games with released source code (and proprietary or freeware content), see List of commercial video games with available source code.
+
+
+<\doc>
+<doc id="717308" title="List of freeware video games">
+This is a selected list of freeware video games implemented as traditional executable files that must be downloaded and installed.  Freeware games are games that are released as freeware and can be downloaded and played, free of charge, for an unlimited amount of time.
+This list does not include:
+
+Open source games (see List of open-source video games).
+Games that were previously sold commercially (see List of commercial video games released as freeware).
+Shareware or Free-to-play games that require purchase for play time, game items, new content or features.
+Browser games alias browser-based games.
+Mods: software that cannot be played as stand-alone game.
+
+
+<\doc>
+<doc id="64502569" title="1821: The Struggle for Freedom">
+1821: The Struggle for Freedom (Greek: 1821: Αγώνας για την Ελευθερία) is a turn-based strategy video game developed and published by Greek game developer Icehole Games (at the time known as Metal Fin) in 2001. In 1821, the player is tasked with leading the scattered Greek forces over the course of the Greek War of Independence, and liberate Greek territories from Ottoman rule by controlling both the economic and military aspects of the revolutionary effort.
+<\doc>
+<doc id="34369775" title="Abobo's Big Adventure">
+Abobo's Big Adventure is a freeware parody flash game. Inspired by various video games released for the Nintendo Entertainment System, the game features Abobo, a boss character from the Double Dragon franchise, traveling through the worlds of several different games to save his son. Written by I-Mockery founder Roger Barr, programmed by Nick Pasto (AKA: PestoForce), with art and animation by PoxPower, Abobo's Big Adventure was released in January 2012 to positive critical reception.
+<\doc>
+<doc id="1455291" title="Achtung, die Kurve!">
+Achtung, die Kurve!, also known as Curve Fever or simply Achtung, is a freeware, multiplayer DOS computer game that supports from two-player up to eight-player gaming simultaneously. The game is a clone of the lesser known Červi (Worms) from 1993, differing in that the lines now have holes. Author is Filip Oščádal, aka Fred Brooker, from the Czech Republic who made this game, together with Kamil Doležal, for Commodore Amiga including music, sound effects and graphical background (worm speed depending on the picture). The game was written in Motorola 68000 assembly. The original DOS game is supposedly from 1995 and written in Borland C++. The title is in German language.
+The game is similar to the game Tron, where players leave a trail and try to make the opponent hit a wall or a trail first. The game is controlled by only two buttons, to turn left or right. A key difference is that in Achtung, die Kurve!, players can turn and travel in any direction, not limited to the four cardinal directions.
+The 2B4 team, led by keubab, has greatly contributed to the European success of the firm.
+<\doc>
+<doc id="11182376" title="Aegis Wing">
+Aegis Wing is a 2007 scrolling shooter video game developed by Carbonated Games and three independent Microsoft interns for the Xbox Live Arcade. The game was released worldwide on May 16, 2007, available free to all Xbox Live members in North America. 
+As of January 21, 2016, it remains as an Xbox One Backwards Compatible title.  It has remained free as a digital download on the Xbox One, Xbox Series X and Series S.
+<\doc>
+<doc id="19204702" title="Aether (video game)">
+Aether is a video game designed by Edmund McMillen and Tyler Glaiel and published by Armor Games, released on September 3, 2008. Players control a lonely boy and an octopus-like monster that the boy encounters, solving puzzles on different planets to restore them from monochrome to color. The pair travel through space by swinging on clouds and asteroids with the monster's elongated tongue, searching other planets for life to which the boy can relate. It is also a part of The Basement Collection.
+McMillen and Glaiel created the game and developed it in 14 days. Both developers expressed interest in seeing a version being released on the Wii game console through the WiiWare online service. Aether received a positive response from video game blogs for its unusual visual style and atmosphere. The single looped piece of background music received a mixed response and the controls were highlighted as an area of the game that could have been improved before release.
+<\doc>
+<doc id="761808" title="Agony (1992 video game)">
+Agony is a horizontally scrolling shooter with a surreal fantasy background. It was released by Psygnosis in 1992 for the Amiga. Agony features a barn owl flying its way through six worlds filled with monsters. The owl uses various waves of echolocation which the player fires at the enemies.
+<\doc>
+<doc id="42594073" title="Aisle (video game)">
+Aisle is a 1999 interactive fiction video game whose major innovation is to allow only a single move and offer from it over a hundred possible outcomes. It is notable for introducing and popularizing the one move genre.
+<\doc>
+<doc id="2588409" title="Alien Arena (video game)">
+Alien Arena (initially CodeRED: Alien Arena) is a free, stand-alone first-person shooter computer game. Begun by COR Entertainment in 2004, the game combines a 1950s-era sci-fi atmosphere with gameplay similar to the Quake, Doom, and Unreal Tournament series. Alien Arena focuses mainly on online multiplayer action, although it does contain single-player matches against bots.
+Alien Arena has been released for Microsoft Windows, OS X, Linux, and FreeBSD. While the game's content is proprietary freeware, prohibiting commercial re-sale, the CRX engine is open source. In 2013 the assets license was loosened somewhat, which allowed the game package to be included in certain Linux distributions, such as Fedora.
+<\doc>
+<doc id="6627417" title="Alien Carnage">
+Alien Carnage, originally released as Halloween Harry, is a side-scrolling platform game developed by Interactive Binary Illusions and SubZero Software, and distributed by Apogee Software. The game features 256-colour VGA graphics and background music in MOD format. Alien Carnage is composed of four episodes. The first episode was released as shareware, and the rest were distributed commercially. In May 2007, John Passfield and 3D Realms released Alien Carnage as freeware. In 2014, the game was re-released with Windows support.
+<\doc>
+<doc id="28059907" title="Alien Swarm">
+Alien Swarm is a multiplayer top-down shooter video game developed by Valve. It is a remake of a mod for Unreal Tournament 2004, and it was developed by the original team, who were hired by Valve during the course of the development process.
+<\doc>
+<doc id="177953" title="America's Army">
+America's Army is a series of first-person shooter video games developed and published by the U.S. Army, intended to inform, educate, and recruit prospective soldiers. Launched in 2002, the game was branded as a strategic communication device designed to allow Americans to virtually explore the Army at their own pace, and allowed them to determine if becoming a soldier fits their interests and abilities. America's Army represents the first large-scale use of game technology by the U.S. government as a platform for strategic communication and recruitment, and the first use of game technology in support of U.S. Army recruiting. 
+The Windows version 1.0, subtitled Recon, was the first released version on July 4, 2002. As of January 2014, there have been over 41 versions and updates released including updates to America's Army: Proving Grounds, which was released on August 2013. All versions have been developed on the Unreal Engine. The game is financed by the U.S. government and distributed by free download. America's Army has also been used to deliver virtual military experiences to participants at air shows, amusement parks, and sporting events around the country. 
+America's Army has also been expanded to include versions for Xbox, arcade, and mobile applications published through licensing arrangements.
+<\doc>
+<doc id="21167519" title="Amulets & Armor">
+Amulets & Armor is a first-person role-playing video game for the PC, created by David Webster and Eric Webster and United Software Artists and published as shareware in 1997. In 2013 the game was re-released as Freeware and open-source software.
+<\doc>
+<doc id="1206317" title="Anacreon: Reconstruction 4021">
+Anacreon: Reconstruction 4021 is a DOS computer game originally written by George Moromisato, and published by TMA in 1987. The game's theme was galactic conquest, with the setting strongly inspired by Isaac Asimov's Foundation series of novels. It was one of the first computer strategy games, and is an example of a 4X game (eXplore, eXpand, eXploit, eXterminate). A Windows remake, titled Anacreon: Imperial Conquest in the Far Future, was released by George Moromisato in 2004. Beta-testing for Anacreon 3, a new web-based version, started in late 2012.
+<\doc>
+<doc id="4640833" title="Anchorhead">
+Anchorhead is a Lovecraftian horror interactive fiction game, originally written and published by Michael S. Gentry in 1998. The game is heavily inspired by the works and writing style of H.P. Lovecraft, particularly the Cthulhu mythos.Anchorhead takes place in a fictional New England town of the same name, where the unnamed protagonist and her husband, a professor and aspiring writer, have relocated to in order to take possession of his ancestral family home. Through historical investigation of the town and her husband's family, the protagonist uncovers a conspiracy to perform a ritual that will summon a Great Old One and put the planet in jeopardy. The protagonist must stop the ritual from occurring and save her husband.  The game story takes place across three days, with the first two corresponding to whole days and the third day divided into a number of segments. There is no time limit in the first two days; each day ends when the player has completed a required task or tasks. Only during the third day does the game impose constraints on the number of turns a player can take to solve the necessary puzzles.
+Anchorhead was hailed by critics and players as one of the best interactive fiction games available due to its complex and intricate backstory and well-written dialogue and descriptions. In the 1998 XYZZY Awards, Anchorhead received the award for Best Setting, and was also nominated for Best Game.
+<\doc>
+<doc id="5212167" title="Apprentice (software)">
+Apprentice is a program that assists in playing Magic: The Gathering over the Internet and maintains a searchable database of Magic cards.  It was developed by Dragonstar Studios from 1996 to 1999 and based on an earlier program from 1995 by Tan Thor Jen.  Christopher Warden, owner of Dragonstar Studios, acquired the source code for the original 1995 Apprentice, which was written in Visual Basic. It was then ported to Delphi by Mike Allen and after creation of the 1.0 port development was continued by Ryan Davis. The last release was in the version 1.4 branch and a 2.0 branch, developed by Davis, was promised in the future.  However, Dragonstar Studios disbanded. In 2007 Apprentice 2.0 was open sourced on Sourceforge. In 2012 Apprentice started being updated again, with a new website created.
+<\doc>
+<doc id="3246404" title="Arcomage">
+Arcomage is a computerized card game produced by The 3DO Company. It originated as a minigame in Might and Magic VII: For Blood and Honor and Might and Magic VIII: Day of the Destroyer, in which it was used to gamble for in-game money or to complete a quest to win games in every tavern. 3DO later released it as a stand-alone game in 2000. In the stand-alone version a single player can play against a computer opponent or two players can play via a LAN or TCP/IP connection. Arcomage uses the fantasy themes of the game in which it is set.
+Arcomage was developed by Stickman Games. The game was sold to 3DO.
+<\doc>
+<doc id="7018383" title="Arctic Adventure (video game)">
+Arctic Adventure is a platform game written for DOS, published by Apogee Software. It is the sequel to Pharaoh's Tomb. The protagonist, Nevada Smith, is an archaeologist searching for a Viking treasure in the Arctic. It was re-released on Steam in 2015 with support for Windows and macOS.
+<\doc>
+<doc id="28928426" title="Armand and the Foppish Hat">
+Armand and the Foppish Hat is a freeware adventure game by American developer Jeff Hanson for Apple Macintosh and Microsoft Windows computers.  It is about a pompous swashbuckler named Armand Restant who must track down the thief who stole his hat.  The game is similar in style to the older Legend of Zelda games for the Nintendo Entertainment System (NES) and Super Nintendo Entertainment System (SNES).
+<\doc>
+<doc id="26466119" title="AstroMenace">
+AstroMenace is a 3D scrolling shoot 'em up arcade game, developed and published by Russian independent game developer Viewizard.
+<\doc>
+<doc id="2243332" title="At the Carnival">
+At The Carnival is a 1989 computer puzzle game by Cliff Johnson.
+It was intended to be the first of a series of games called Puzzle Gallery; however, publisher Miles Computing went out of business before any further games could be made.
+At The Carnival is a collection of games similar to some in The Fool's Errand, but with enhanced user interfaces.  The endgame puzzle is simpler compared to Fool's Errand and 3 in Three, consisting merely of a crossword puzzle filled by key words found in other solved puzzles.
+<\doc>
+<doc id="11487701" title="Barkley, Shut Up and Jam: Gaiden">
+Barkley, Shut Up and Jam: Gaiden is a freeware role-playing video game developed by Tales of Game's Studios, jokingly presented as an official sequel to both Barkley Shut Up and Jam! and Space Jam. It features traditional JRPG-styled battles and dungeons.
+<\doc>
+<doc id="24715133" title="Ben There, Dan That!">
+Ben There, Dan That! is a point and click adventure game developed by Zombie Cow Studios (now known as Size Five Games). It is freeware and was released on July 14, 2008 for Windows.The game was positively received by critics, who enjoyed the game's humor but criticized its short length and lack of music.
+Two sequels have been released: Time Gentlemen, Please! in 2009 and Lair of the Clockwork God in 2020.
+<\doc>
+<doc id="290504" title="Beneath a Steel Sky">
+Beneath a Steel Sky is a 1994 cyberpunk science fiction point-and-click adventure game developed by British developer Revolution Software and published by Virgin Interactive Entertainment for MS-DOS and Amiga home computers. The game was made available as freeware for PC platforms in 2003. Set in a dystopian future, the player assumes the role of Robert Foster, who was stranded in a wasteland known as "the Gap" as a child and adopted by a group of local Aboriginals, gradually adjusting to his life in the wilderness. After many years, armed security officers arrive, killing the locals and taking Robert back to Union City. He escapes and soon uncovers the corruption which lies at the heart of society.
+Originally titled Underworld, the game was a collaboration between game director Charles Cecil and comic book artist Dave Gibbons, and cost £40,000 to make. Cecil was a fan of Gibbons's work and approached with the idea of a video game. The game has a serious tone, but features humour-filled dialogue, which came as a result of Cecil's and writer Dave Cummins's goal to find a middle ground between the earnestness of Sierra's  and the slapstick comedy of LucasArts' adventure games. It was built using Revolution's Virtual Theatre engine, first used in Revolution's previous and debut release, 1992's Lure of the Temptress.
+It received positive reviews at the time of its release and is retrospectively viewed as a cult classic and Revolution's greatest game besides Broken Sword: The Shadow of the Templars. A remastered edition was released for iOS in 2009 as Beneath a Steel Sky Remastered, which also received a positive reception from the gaming press. A sequel was greenlit during the Broken Sword: The Serpent's Curse 2012 Kickstarter campaign, and was announced in March 2019. Entitled Beyond a Steel Sky, it was released on Apple Arcade in June 2020, with a Steam release in July 2020.
+<\doc>
+<doc id="16337878" title="Beyond the Red Line">
+Beyond the Red Line was a total conversion for the game FreeSpace 2, based on the reimagined TV show Battlestar Galactica.  It allows players to fly into combat as either a Colonial Viper pilot or a Cylon raider.
+<\doc>
+<doc id="7157829" title="Beyond the Titanic">
+The following is a list of the earliest, lesser-known video games published by Apogee Software. For a full listing of Apogee/3D Realms games, see list of 3D Realms games.
+<\doc>
+<doc id="13088444" title="Biniax">
+Biniax is a free and open-source puzzle video game which was first released in 2005. A sequel, Biniax-2, was released in 2007,  with a more polished look and feel, and different game modes: arcade, tactic and multiplayer. The most recent release was in 2012.
+<\doc>
+<doc id="23586798" title="Black Shades">
+Black Shades is an open-source video game developed by Wolfire Games. Originally released for PC, it was later ported to other platforms due to the source code availability. The player controls a psychic bodyguard who is tasked with protecting a VIP from a horde of zombies, snipers and other assorted would-be assassins.
+<\doc>
+<doc id="181264" title="Blackthorne">
+Blackthorne (released as Blackhawk in some European countries) is a cinematic platform game developed by Blizzard Entertainment. It was released for the Super NES and MS-DOS in 1994. The cover art for the SNES version was drawn by Jim Lee. The following year, Blackthorne was released for the Sega 32X with additional content. In 2013, Blizzard released the game for free on their Battle.net PC client. In celebration of the company's 30th anniversary, Blackthorne was re-released for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One as part of the "Blizzard Arcade Collection" in February 2021.
+<\doc>
+<doc id="43262050" title="Blobby Volley">
+Blobby Volley is a free and open-source sports computer game series in which two blobbed shaped entities play volleyball against each other. There are multiplayer and single-player modes.
+<\doc>
+<doc id="11946303" title="Blocktrix">
+Blocktrix is a free, online, multiplayer, puzzle game based on TetriNET and was created in 2000 by StrikeLight. It was developed as an update to the official TetriNET 1.13 client after the original creator, St0rmCat, created a new version to the game entitled TetriNET 2, which included major changes to the TetriNET client such as not allowing private servers.  While Blocktrix is compatible with TetriNET servers, the Blocktrix protocol itself adds features to Blocktrix specific servers which makes it a different game altogether.
+<\doc>
+<doc id="56944130" title="Bloodie">
+Bloodie is a 1998 Czech video game for DOS.
+<\doc>
+<doc id="22095072" title="Bloody Fun Day">
+Bloody Fun Day is a puzzle Flash game developed by Urban Squall and published by Kongregate on March 12, 2009. Players control one of a family of three grim reapers and are tasked with moving around an island of hexagonal tiles, killing creatures called Cuties in order to replenish their own life force. Cuties come in four colors. Only the red ones restore life; the others charge special abilities that give the player more ways to kill further Cuties.
+The game was initially developed as a demo by Urban Squall during the group's annual development meeting, in a San Diego hotel during November 2008. The demo was further tested after the five-day meeting, resulting in the complete game being released during March. The game's theme was inspired by the short story Everything Can Be Beaten by Jhonen Vasquez, which features a monster that clubs animals to death and is unable to interact with them in any other way.
+Critics praised the game's concept, gameplay and addictiveness. The intensity of trying to keep the reaper alive was highlighted by some reviewers, such as saving the reaper's life by killing many Cuties. Some issues, such as the lack of special effects and enemies, were highlighted; this did not prevent reviewers from rating the game positively overall.
+<\doc>
+<doc id="23934062" title="Bob's Game">
+Bob's Game (stylized as "bob's game") was a role-playing video game being developed by independent video game developer Robert Pelloni since 2003/2004. The  project is most notable for Pelloni developing the game using open source software development tools and Nintendo's refusal to license him the official SDK as well as Bob's response to that decision.
+<\doc>
+<doc id="4341340" title="Boppin'">
+Boppin' is a puzzle-oriented video game created by Jennifer Diane Reitz in 1991, developed under the company name Accursed Toys and published by Karmasoft for the Amiga computer with only 32 colors on screen. Around that time Karmasoft held a level design contest. The game sold poorly with 284 copies, so Jennifer got it republished by Apogee Software (now known as 3D Realms) with up to 256 colors on screen. Due to mature content containing blood and Seppuku, the game was rated for players aged 25.
+<\doc>
+<doc id="48554997" title="Broken Picture Telephone">
+Broken Picture Telephone, sometimes abbreviated BPT, is a collaborative multiplayer online drawing and writing game invented in 2007, based on the pen-and-paper game Telephone Pictionary.
+<\doc>
+<doc id="61617391" title="Bulánci">
+Bulanci is a Czech freeware 2001 action video game created by the SleepTeam development group.
+<\doc>
+<doc id="11389899" title="C-Dogs">
+C-Dogs, the sequel to Cyberdogs, is a shoot 'em up computer game where players work cooperatively during missions, and against each other in "dogfight" deathmatch mode.
+<\doc>
+<doc id="41375804" title="Cart Life">
+Cart Life is a simulation video game developed by Richard Hofmeier using Adventure Game Studio for Microsoft Windows released in 2010. The game was added to Steam in March 2013 but later removed when Hofmeier released the full source code for free. The game is designed on a pixel-grid in grayscale, with minimal detail, to better allow the player to deduce the mood of each of the three vendor characters.
+In Cart Life the player controls one of three street vendors, and attempts to run their shop whilst looking after their health, interests, and families.
+The game was received well by critics, with particular praise for the relatable characters, though some critics criticised technical issues. In 2013 Cart Life won the Independent Games Festival Seumas McNally Grand Prize, Nuovo Award, and Excellence in Narrative award.
+<\doc>
+<doc id="304856" title="Castle Infinity">
+Castle Infinity was the first commercially launched MMOG for children. It was launched by Starwave Corporation in 1996, and featured personalized avatars, an embedded message system and live chat in a 2D side scrolling game world.   It survives as a freeware MMOG.
+The game is full of interactions that force players to collaborate with each other in order to pass from one area to the next, by way of four-person vehicles and other game-like lobbying devices.
+The a cappella group The Bobs provided several original songs for the soundtrack. Additionally, members of the band also lent their voices for most of the characters.
+
+
+<\doc>
+<doc id="6023" title="Castle of the Winds">
+Castle of the Winds is a tile-based roguelike video game for Microsoft Windows. It was developed by Rick Saada in 1989 and distributed by Epic MegaGames in 1993.
+The game was given around 1998 into the public domain and provided as Freeware download by the author. Though it is secondary to its hack and slash gameplay, Castle of the Winds has a plot loosely based on Norse mythology, told with setting changes, unique items, and occasional passages of text. The game is composed of two parts: A Question of Vengeance, released as shareware, and Lifthransir's Bane, sold commercially. A combined license for both parts was also sold.
+<\doc>
+<doc id="43235063" title="Cataclysm: Dark Days Ahead">
+Cataclysm: Dark Days Ahead, or CDDA, is an open-source survival horror roguelike video game. Cataclysm: Dark Days Ahead is a fork of the original game Cataclysm. CDDA features text based graphics but has an alternative graphical tiles version.
+The game is freely downloadable on the game's website and the source code is also freely available on the project's GitHub repository under the CC BY-SA Creative Commons license. Rock, Paper, Shotgun named CDDA in 2016 one of "The 50 Best Free Games on PC".
+
+
+<\doc>
+<doc id="1904536" title="Cave Story">
+Cave Story (Japanese: 洞窟物語, Hepburn: Dōkutsu Monogatari) is a 2004 Metroidvania platform-adventure game for Microsoft Windows. It was developed over five years by Japanese developer Daisuke "Pixel" Amaya in his free time. Cave Story features 2D platform mechanics and is reminiscent of the games Amaya played in his youth, such as Metroid and Castlevania (both released in 1986). After its initial self-published release, the game slowly gained popularity on the internet. It received widespread critical acclaim for many polished aspects of its design, such as its compelling characters, setting, story, and gameplay. Cave Story is considered by many as the quintessential indie game because of its one-person development team and influence on the gaming world.Independent developer Nicalis worked with Amaya to port the game to WiiWare and DSiWare in 2010. An enhanced version, Cave Story+, was released for Steam in November 2011, and the original game was released for the Nintendo 3DS in October 2012 with added content. A 3D remake of the game, titled Cave Story 3D, was developed by Nicalis and published by NIS America for the Nintendo 3DS in November 2011. A port of Cave Story+ for the Nintendo Switch was released in June 2017.
+The fast-paced gameplay of Cave Story revolves around Quote, a robot who wakes up suffering amnesia and who must explore and blast his way through cavernous areas in order to figure out his backstory and escape from the cave. The character gains access to new areas as he powers up his weapons by collecting triangular experience crystals and solves various platforming puzzles. Quote speaks to non-player characters scattered around the game world in order to learn more about the world and its inhabitants.
+<\doc>
+<doc id="14828851" title="Challenge ProMode Arena">
+Challenge ProMode Arena (CPMA, formerly Challenge ProMode [CPM], unofficially Promode) is a freeware modification for id Software's first-person shooter computer game Quake III Arena (Q3A). CPMA includes modified gameplays that feature air-control, rebalanced weapons, instant weapon switching and additional jumping techniques. It also supports the unmodified vanilla Quake III (VQ3) physics, multi-view GameTV and demos, enhanced bots artificial intelligence, new maps, highly customisable HUD and many other features.
+Challenge ProMode Arena has become the standard competitive mod for Q3A since the Cyberathlete Professional League announced CPMA as its competition mod of choice. The mod has its own division in Cyberathlete Amateur League, is used in Electronic Sports World Cup, and has its own competitions and leagues.
+Promode physics have been implemented in other Q3A notable modifications—DeFRaG (DF) and Orange Smoothie Productions (OSP). Quake Live introduced Promode Quake Live (PQL) physics and ruleset which is similar to CPMA.
+
+
+<\doc>
+<doc id="4141400" title="Championship Manager: Season 01/02">
+Championship Manager: Season 01/02 is a football management video game in Sports Interactive's Championship Manager series. It was released for Microsoft Windows in October 2001, and for Mac in November 2001. It was later released on Xbox in April 2002. It was released as freeware in 2008. The game allowed players to take charge of any club in one of around 100 leagues across 27 countries, with responsibility for tactics and signings. The game sold more than 300,000 copies in the United Kingdom and is still popular and regularly updated.
+<\doc>
+<doc id="43810703" title="Cho Ren Sha 68K">
+Cho Ren Sha 68K is a 1995 vertically scrolling dōjin shoot 'em up video game developed and originally published by Koichi "Famibe No Yosshin" Yoshida at Comiket for the X68000. Taking place in a ring structure, players take control of the Zanki space fighter craft to fight against an assortment of enemies and bosses.
+Cho Ren Sha 68K was first made for the X68000 due to its popularity in the dōjin and freeware development scenes, being influenced by several shoot 'em up games in arcades that also played part with its design process. The game was later ported to Microsoft Windows in 2001, featuring various changes compared to its original release. The title was met with mostly positive reception from reviewers for its presentation, graphics, music and gameplay; criticism was geared towards various design choices but has since gained a cult following, serving as an influence for ZeroRanger (2018).
+
+
+<\doc>
+<doc id="21970879" title="Clean Asia!">
+Clean Asia! is a freeware vertical shooter video game by Jonatan "Cactus" Söderström, an independent video game developer from Gothenburg, Sweden.
+<\doc>
+<doc id="9281716" title="Clonk">
+Clonk is a single player and multiplayer computer game series. The games feature a mix of the action, real-time strategy and platform game genres. Developed between 1994 and 2014 by RedWolf Design the games of the series were originally released as Shareware and became around 2008/2014 Freeware and open source software. The game's community develops since then the series under the name OpenClonk. The game series was compared and described as mixture of Worms, The Settlers, Tetris, Lemmings and Minecraft. The game was noted for the easy game "extension" mechanic with an integrated editor and developer mode, which allows experienced players to create their own modifications directly into the game.
+<\doc>
+<doc id="17699272" title="Combat Arms">
+Combat Arms: Reloaded is a free-to-play multiplayer first-person shooter game developed and published by Nexon. The game uses the LithTech game engine to produce its graphics.
+In July 2012, Combat Arms was also released on Steam.
+<\doc>
+<doc id="2053053" title="Command & Conquer (1995 video game)">
+Command & Conquer (also known as Command & Conquer: Tiberian Dawn) is a 1995 real-time strategy video game developed by Westwood Studios and published by Virgin Interactive. Set in an alternate history, the game tells the story of a world war between two globalized factions: the Global Defense Initiative of the United Nations and a cult-like militant organization called the Brotherhood of Nod, led by the mysterious Kane. The groups compete for control of Tiberium, a mysterious substance that slowly spreads across the world.
+Westwood conceived Command & Conquer during the final stages of the development of Dune II, and it expands on ideas explored in that title. Inspired by the events of the era, particularly the Gulf War, the team gave the game a modern warfare setting. The game contains live-action full motion video cutscenes, which star Westwood employees and a single professional actor, Joseph D. Kucan, who plays Kane. The Nintendo 64 port was developed by Looking Glass Studios.
+Command & Conquer was a commercial and critical success, selling over three million copies and winning numerous awards. It has been cited as the title that defined and popularized the real-time strategy genre. The game was the first in the Command & Conquer series, which sold 30 million copies by 2009. To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007.
+<\doc>
+<doc id="1913170" title="Command & Conquer: Red Alert">
+Command & Conquer: Red Alert is a real-time strategy video game of the Command & Conquer franchise, produced by Westwood Studios and released by Virgin Interactive Entertainment in 1996. The second game to bear the Command & Conquer title, Red Alert is the prequel to the original Command & Conquer of 1995, and takes place in the alternate early history of Command & Conquer when Allied Forces battle an aggressive Soviet Union for control over the European mainland.
+It was initially available for PC (MS-DOS and Windows 95 versions included in one package) and was subsequently ported to PlayStation. The PlayStation version was also re-released as a download on the PlayStation Network for PlayStation Portable and PlayStation 3. On August 31, 2008, Electronic Arts, who acquired Westwood Studios in 1998, rendered Command & Conquer: Red Alert freeware.In collaboration with Petroglyph Games and Lemon Sky Studios, EA announced a remaster of Red Alert along with the original Command & Conquer on November 14, 2018. The Command & Conquer Remastered Collection, released on June 5, 2020 through the services Origin and Steam, contains a graphically rebuilt Red Alert, the expansions Counterstrike and The Aftermath, additional missions and briefing videos that were exclusive to the PlayStation's Retaliation port, and an unlockable gallery of unused and "making-of" materials.
+
+
+<\doc>
+<doc id="2053056" title="Command & Conquer: Tiberian Sun">
+Command & Conquer: Tiberian Sun is a 1999 real-time strategy video game developed by Westwood Studios, published by Electronic Arts, and released exclusively for Microsoft Windows on August 27, 1999. The game is the sequel to the 1995 game Command & Conquer, and featured a number of improvements on the original including a change to in-game perspective, balancing of units between playable factions, additional resources for gathering, new graphic effects and a new soundtrack. The main story of the game focuses on a new conflict between the Global Defense Initiative (GDI) and the Brotherhood of Nod. Kane, the leader of the Brotherhood of Nod, who was presumed dead at the end of the previous game's canonical ending, returns with a plan that GDI seek to thwart.
+The game suffered numerous delays during development, with a number of additional features added to the game within the expansion pack Command & Conquer: Tiberian Sun - Firestorm, including a multiplayer global war mode. Tiberian Sun was a commercial success and received positive reviews from critics, despite some of the technical bugs in the game. The game was later succeeded by the 2007 sequel Command & Conquer 3: Tiberium Wars, while the game and its expansion were later licensed by Electronic Arts as freeware on February 12, 2010.
+<\doc>
+<doc id="274362" title="Core War">
+Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs (called "warriors") compete for control of a virtual computer. These battle programs are written in an abstract assembly language called Redcode.
+
+
+<\doc>
+<doc id="5893343" title="Crazy Sue">
+Crazy Sue is a 2D platform game, which was first released in 1990 in issue 1 of the Amiga Fun magazine by MC Publications. In the game the player takes the role of the little girl named "Crazy Sue", who must defeat the evil "Wizard of Doom".
+The game spawned a sequel, Crazy Sue Goes On.
+<\doc>
+<doc id="2306103" title="Crobots">
+Crobots is a programming game released for the first time by Tom Poindexter in December, 1985 as Shareware.
+The robots are controlled by a program written in a stripped-down version of C. The robot's mission is to seek out and destroy other robots, each running different programs. The robots can be controlled in order to move around the battlefield, scan the environment to find enemies and fire at enemies using a cannon.Crobots borrows the concept used from the game RobotWar that ran on the original Apple II computer. Robots were programmed in a proprietary programming language that was interpreted and included a real-time view of the game as it was played.
+In October, 2013, Poindexter released the source code of Crobots under the GPLv2 free software license.
+<\doc>
+<doc id="50283160" title="Crown and Council">
+Crown and Council is a turn-based strategy video game developed by Mojang employee Henrik Pettersson. The game was both announced and released as a surprise on Steam on April 22, 2016 and was made available for free.
+<\doc>
+<doc id="40326841" title="Cry of Fear">
+Cry of Fear is a survival horror game developed by independent Swedish studio Team Psykskallar. Though originally a mod for the video game Half-Life in 2012, it was released as a standalone product the following year.
+<\doc>
+<doc id="7088520" title="Dark Ages (1991 video game)">
+Dark Ages is a platform game written for DOS, published by Apogee Software. It was the first shareware game to feature music for the AdLib sound card.Dark Ages was distributed as shareware. It consists of three episodes, with only the first episode playable in the shareware version. The episodes are:
+
+Prince of Destiny
+The Undead Kingdom
+Dungeons of DoomThe game was released as freeware on March 20, 2009, and for Steam with Windows and Mac OS support in 2015.
+<\doc>
+<doc id="37424746" title="The Dark Mod">
+The Dark Mod is a free and open-source software first-person stealth video game, inspired by the Thief series by Looking Glass Studios. The game provides the basic framework and tools (engine, assets, models, and editor) for more than 100 fan-made missions, including several multi-mission campaigns. The Dark Mod was first released in 2009 as a total conversion mod for Doom 3. Version 2.0 was released in October 2013 as a standalone game using the open-source id Tech 4 game engine.
+<\doc>
+<doc id="15177974" title="Dash of Destruction">
+Dash of Destruction (also known as Doritos Dash of Destruction) is a racing advergame developed by independent software developer NinjaBee for the Xbox 360's Xbox Live Arcade service. It was released on December 17, 2008 for free. The concept originated from gamer Mike Borland, winner of Doritos-sponsored "Unlock Xbox" competition.The game is regarded as the easiest game to earn all achievements and Gamerscore points out of all XBLA titles released. According to Giant Bomb, the game's twelve achievements can all be easily earned in under 20 minutes. The game references this several times in dialogue with the player, such as telling players to "get their Gamerscore on" and to "go on a Gamerscore rampage". This game is no longer available on the Xbox Live Marketplace, but can be re-downloaded if it was previously downloaded before it was taken off the Xbox Live Marketplace, the full game can also be found physically on Xbox Magazine demo disc #96.
+<\doc>
+<doc id="1680790" title="Death Rally">
+Death Rally is a vehicular combat racing video game developed by Remedy Entertainment, published by Apogee Software and distributed by GT Interactive. Originally known as HiSpeed during development, it was released on 7 September 1996 for MS-DOS. In the game, the player starts with $495 and a weak car named Vagabond (based on the VW Beetle), and must compete in deadly races where all cars are armed (although a game without guns is an option). The player wins money by finishing in front positions, collecting money bonuses during the race, fulfilling missions and destroying other cars. The ultimate goal of the game is defeating the "Adversary", the undisputed king of Death Rally, in a one-on-one race.
+In October 2009, Remedy updated Death Rally with compatibility for Microsoft Windows and re-released the game as freeware. A remake of the game was developed by Remedy in cooperation with Mountain Sheep and Cornfox & Brothers. The remake was released for iOS in March 2011, for Android in April 2012, for Windows in August 2012, and for Fire OS in September 2012.
+<\doc>
+<doc id="65457231" title="Decisive Battles of WWII: The Ardennes Offensive">
+Decisive Battles of WWII: The Ardennes Offensive is a 1997 computer wargame developed by Strategic Studies Group (SSG) and published by Strategic Simulations, Inc.The Ardennes Offensive failed commercially, but was critically acclaimed. It became the first installment in the Decisive Battles of WWII series, spawning the sequels Decisive Battles of WWII: Korsun Pocket (2003) and Battles in Normandy (2004).
+<\doc>
+<doc id="43699288" title="Deep Sleep">
+Deep Sleep is a series of point-and-click adventure games, created by Polish indie developer Scriptwelder.  The series consists of three free browser games in which the player attempts to navigate and eventually escape a dream world inhabited by shadow people.  The first game, Deep Sleep, was designed for and won first place in the 2012 Jay Is Games Casual Gameplay Design Competition. Connections between Scriptwelder's Deep Sleep, and Don't Escape series were hinted at throughout each, with a much deeper connection being established with the release of Don't Escape 4. Ties between these series, and the fictional company Sidereal Plexus have been referred to as the "Scriptwelder Multiverse".
+<\doc>
+<doc id="43600438" title="Depression Quest">
+Depression Quest is a 2013 interactive fiction game dealing with the subject of depression. It was developed by Zoë Quinn using the Twine engine, with writing by Quinn and Patrick Lindsey, and music by Isaac Schankler. It was first released for the web on February 14, 2013, and for Steam on August 11, 2014. The game tells the story of a person suffering from depression and their attempts to deal with their affliction. It was created to foster greater understanding about depression. Depression Quest can be played for free, and has a pay-what-you-want pricing model. The National Suicide Prevention Lifeline receives part of the proceeds.
+Depression Quest was praised by critics for its portrayal of depression and its educational value. The game was noted for diverging from mainstream uses of video games as a medium. Popular reception was mixed, and Quinn received threats and harassment from people who disapproved of the game. False allegations that the game had received a positive review from a journalist in a relationship with Quinn triggered the Gamergate controversy.
+<\doc>
+<doc id="1320860" title="Dink Smallwood">
+Dink Smallwood is an action role-playing video game, developed by Robinson Technologies, at the time consisting of Seth Robinson, Justin Martin, and Greg Smith. It was first released in 1998 before being released as freeware on October 17, 1999. Mitch Brink composed several of the game's music tracks, while others are MIDI forms of classical music, such as Debussy's "Reverie". The game has a small but constant fan following that continues to develop add-ons for the game more than a decade after its release. The game is also notable for its humorous dialogue and surrealistic themes in various scenes between the gameplay.
+<\doc>
+<doc id="55566422" title="Doki Doki Literature Club!">
+Doki Doki Literature Club! is a 2017 American freeware visual novel developed by Team Salvato for Microsoft Windows, macOS, and Linux. The game was initially distributed through itch.io, and later became available on Steam. The story is told from the perspective of a male high school student who joins the school's literature club in an attempt to woo one of its four female members. Doki Doki Literature Club! features a non-traditional plot structure with multiple endings and unlockable cutscenes with each of the main characters. Although this game initially appears to be a lighthearted dating simulator, it is in fact a horror game that extensively breaks the fourth wall.
+The game was developed in an estimated two-year period by a team led by Dan Salvato, previously known for his modding work as part of Project M. According to Salvato, the inspiration for the game came from his mixed feelings toward anime and a fascination for surreal and unsettling experiences. Upon its release, Doki Doki Literature Club! received positive critical attention for its successful use of horror elements and unconventional nature within the visual novel genre. The game also inspired internet memes and achieved a large following online.
+
+
+<\doc>
+<doc id="23220191" title="Don't Look Back (video game)">
+Don't Look Back is a platform game playable through Adobe Flash and designed by Terry Cavanagh. The game is a modern interpretation of the Orpheus and Eurydice Greek legend.
+The game is a combination of two ideas; Cavanagh wished to create a "silly shooter" where the player's actions were "redeemed" after being shown from a different perspective, he also wished to create a game where the gameplay acted as a metaphor of the player's actions.
+Critics praised the game's addictiveness and presentation, but had different opinions over the game's high difficulty level.
+<\doc>
+<doc id="43616794" title="Don't Shit Your Pants">
+Don't Shit Your Pants is a browser-based text adventure game created by Canadian developers Teddy and Kenny "Rete" Lee for Cellar Door Games. The objective of the game is to use a text prompt to prevent a man standing beside a closed door from defecating inappropriately. It was the first title released by the Lee brothers, receiving positive critical reception.
+<\doc>
+<doc id="30090396" title="Doritos Crash Course">
+Doritos Crash Course (formerly titled as Avatar Crash Course) is a 2D sidescrolling platforming advergame developed by Wanako Games for the Xbox 360. It was released for free as one of the finalists of the "Unlock Xbox" competition sponsored by Doritos, alongside Harms Way. The concept for the game was designed by Jill Robertson from Raleigh, North Carolina, inspired by Japanese game shows such as Sasuke. On December 29, 2010, the game was announced the winner of the second "Unlock Xbox" competition. The game received positive reviews from critics.
+A Windows 8 version of the game, Doritos Crash Course Go!, has since been released.
+
+
+<\doc>
+<doc id="5620798" title="Dragonsphere">
+Dragonsphere is a point-and-click graphic adventure game developed and published by MicroProse in 1994. It has graphics which were considered high-quality at the time it was published, considered a novelty. It is still a cult classic for many.The game was the third, and last, graphical adventure game developed by MicroProse, following Rex Nebular and Return of the Phantom. It was designed by Douglas Kaufman and developed using the MicroProse Adventure Development system with 256-color graphics.
+In 2011, GOG.com released the game for free. It was also released on Steam in 2014. Tommo purchased the rights to this game and digitally published it in 2015, through its Retroism brand.In 1994, Sanctuary Woods purchased the MicroProse Adventure Development System game engine.
+<\doc>
+<doc id="61129563" title="Dráscula: The Vampire Strikes Back">
+Dráscula: The Vampire Strikes Back (Spanish: Dráscula: El Vampiro) is a 1996 graphic adventure game developed by Alcachofa Soft. It was created in Spain, and was the first adventure game released by Alcachofa. In 1999, Midas Interactive Entertainment released an English version of the game in the United Kingdom. Dráscula tells the story of John Hacker, a realtor who attempts to help "Count Drascula" sell real estate in Transylvania.In 2017, HobbyConsolas declared Dráscula one of the nine-best Spanish graphic adventure games. The publication's Clara Castaño Ruiz wrote, "[T]ogether with Igor: Objective Uikokahonia, [it was] one of the pioneer games of the genre in our country." In 2012, MeriStation's César Otero noted that the game's politically incorrect style of comedy was "totally outdated nowadays" but nevertheless a "guilty pleasure".Dráscula was commercially unsuccessful. GameLive PC's Gerard Masnou wrote in 2003 that "dismal distribution by DMM has prevented many players from enjoying this little cult classic". In 2008, Jack Allin of Adventure Gamers described the game as "rare". During September of that year, support for the game was added to ScummVM, after Alcachofa handed the source code to the program's team. Alcachofa subsequently re-released Dráscula as freeware.
+<\doc>
+<doc id="739817" title="DreamWeb">
+Dreamweb is an MS-DOS and Amiga point-and-click cyberpunk top-down adventure game released in 1994, developed by Creative Reality and published by Empire Interactive Entertainment. The game features mature themes and a dark plot filled with violence and brief full frontal nudity; a rarity for games at the time.
+Dreamweb was re-released as freeware in October 2012.
+<\doc>
+<doc id="10186195" title="DRL (video game)">
+DRL (formerly DoomRL), short for Doom, the Roguelike, is a roguelike video game developed by ChaosForge based on the first-person shooters Doom and Doom II. It's been in-development since 2002 and released for Microsoft Windows, Linux and OS X. Following a cease and desist notice from "Doom" trademark owner, ZeniMax Media, the game's name was changed to DRL in 2016.
+<\doc>
+<doc id="7239234" title="Dwarf Fortress">
+Dwarf Fortress (officially called Slaves to Armok: God of Blood Chapter II: Dwarf Fortress) is a construction and management simulation and roguelike indie video game created by Bay 12 Games. Freeware and in development since 2002, its first alpha version was released in 2006 and it received attention for being a two-member project surviving solely on donations. The primary game mode is set in a procedurally generated fantasy world in which the player indirectly controls a group of dwarves, and attempts to construct a successful and wealthy fortress. Critics praised its complex and emergent gameplay but had mixed reactions to its difficulty. The game influenced Minecraft and was selected among other games to be featured in the Museum of Modern Art to show the history of video gaming in 2012.
+The game has text-based graphics and is open-ended with no main objectives. Before playing, the player has to set in motion a process which generates worlds with continents, oceans and histories documenting civilizations. The main game mode, Dwarf Fortress, consists of selecting a suitable site from the generated world, establishing a successful colony or fortress, combating threats like goblin invasions, generating wealth and taking care of the dwarves. Each dwarf is modeled down to its body parts, organs, and tissues, as well as having a discrete mind and individual personality, including likes and dislikes, and possesses specific trainable skills in various labors, as well as short and long term memories to facilitate all this. The second main game mode, Adventurer mode, is a turn-based, open-ended roguelike mode where the player starts off as an adventurer in the world and is free to explore, complete quests, or visit old abandoned fortresses. The combat system is anatomically detailed with combat logs describing events like organs getting pierced, fat getting bruised and limbs getting severed.
+Prior to Dwarf Fortress, Tarn Adams was working on a project called Slaves to Armok: God of Blood which was a role-playing game. By 2004, Adams decided to shift from the original Armok to Dwarf Fortress after the former became difficult to maintain. Adams calls it his life's work and said in 2011 that version 1.0 will not be ready for at least another 20 years, and even after that he would continue to work on it. The game has a cult following and an active online community. As there is no way to win, every fortress, no matter how successful, is usually destroyed somehow. This prompts the official community motto: "Losing is Fun!"
+<\doc>
+<doc id="6483203" title="DX-Ball">
+DX-Ball (stylized as DX • BΔLL, sometimes also written as DXBALL) is a freeware computer game for the PC first released in 1996 by Michael P. Welch and Seumas McNally.  The game, originally based on an earlier series of Amiga games known as MegaBall, is patterned after classic ball-and-paddle arcade games such as Breakout and Arkanoid. A level editor was also made available as well. DX-Ball has been succeeded by three direct follow-ups: DX-Ball 2 (1998), Rival Ball (2001) and Super DX-Ball (2004).
+<\doc>
+<doc id="2603326" title="Earthsiege 2">
+Earthsiege 2 is a mecha-style vehicle simulation game developed by Dynamix, produced by Frank Evers (NYPH), and released in 1996. Earthsiege 2 is set in the Earthsiege universe, which contains its predecessors Earthsiege (1994) and Battledrome (1995), as well as the action game Hunter Hunted (1996), strategy games MissionForce: CyberStorm (1997) and Cyberstorm 2: Corporate Wars (1998), simulation Starsiege (1999), and first-person shooters Starsiege: Tribes (1999), Tribes 2 (2001), Tribes Aerial Assault (2002), Tribes: Vengeance (2004) and Tribes: Ascend (2012).
+As a simulation, Earthsiege 2 gives players the opportunity to pilot massive bipedal war machines known as HERCULANs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) (or 'HERCs' for short). Set in 2624, Earthsiege 2 features advanced weapons and technology for waging war. Earthsiege 2 takes place across North America, South America, Antarctica, Asia, Australia, Europe, and the moon.
+Earthsiege 2 features a more advanced engine than Earthsiege, increasing the game's maximum resolution to 640*480. Additionally, the game features much more detailed terrain than its predecessor. Earthsiege 2 has 3D rolling terrain rather than the flat landscape of Earthsiege. Furthermore, video briefings and debriefings, along with included squadmate voices, add to the atmosphere of the game.
+In 2015, Earthsiege 2 was released as freeware by Hi-Rez Studios.
+<\doc>
+<doc id="4744724" title="Eastside Hockey Manager">
+Eastside Hockey Manager, commonly known as EHM or NHL EHM is a video game series about managing an ice hockey team. The series started out as a popular freeware game and later evolved into the commercial NHL Eastside Hockey Manager games developed by Sports Interactive and published by Sega.
+<\doc>
+<doc id="2942317" title="The Elder Scrolls II: Daggerfall">
+The Elder Scrolls II: Daggerfall is an open-world action role-playing video game published and developed by Bethesda Softworks. The second game in the Elder Scrolls series, it was released on September 20, 1996. It was both a critical and commercial success on launch. As a way to commemorate the fifteenth anniversary of The Elder Scrolls franchise, the game was made free to download on Bethesda's website on July 9, 2009.
+
+
+<\doc>
+<doc id="2942310" title="The Elder Scrolls: Arena">
+The Elder Scrolls: Arena is an action role-playing video game developed and published by Bethesda Softworks. The first game in the Elder Scrolls series, it was released for MS-DOS on March 25, 1994. Like its sequels, Arena takes place on the continent of Tamriel, complete with wilderness, dungeons, and a spell creation system that allows players to mix various spell effects.
+In 2004, a downloadable version of the game was made available free of charge as part of the tenth anniversary of the series.
+<\doc>
+<doc id="24044775" title="Electro Man">
+Electro Man, originally distributed in Poland under the title Electro Body, is a DOS platform game developed by the Polish company X LanD Computer Games. It was originally released in Poland by xLand in 1992, and later published by Epic MegaGames in the United States in 1993; apart from the changed title, the Electro Man release contains some changes, such as upgraded graphics. Though initially offered under a shareware license, the game was released as freeware by the developer on June 25, 2006, under the Creative Commons Attribution-ShareAlike 2.5 license. The player controls a cyborg named "Jacek", who must get through all the areas of a space base while destroying enemies.
+Electro Body was successful in Poland. It is considered to be the first truly "professional" Polish computer game released on the PC platform and has been described as a "cult" game.In 2014, a limited collector's edition of the game was released for its 22nd anniversary by IQ Publishing; this edition came with a soundtrack and a numbered certificate.
+<\doc>
+<doc id="36043272" title="Encyclopedia Fuckme and the Case of the Vanishing Entree">
+Encyclopedia Fuckme and the Case of the Vanishing Entree is an independently developed freeware dating sim developed and written by Anna Anthropy. The game stars a submissive who eagerly goes to Anni, her dominant partner, only to find that Anni plans on eating her for dinner in her house. The player is forced to make branching choices which affect the game's outcome.
+Anthropy was inspired by her real-life submissive to create a dating sim that reflected real carnal desires instead of a more standard dating sim, which she perceived to be somewhat exploitative and inhuman. The game has received praise from critics for its unique take on the genre.
+<\doc>
+<doc id="32604446" title="Endgame: Singularity">
+Endgame: Singularity is a 2005 free and open source science fiction strategy/simulation game for Linux, Microsoft Windows, and Mac OS X.
+
+
+<\doc>
+<doc id="4528431" title="Enemy Nations">
+Enemy Nations is a real-time strategy game, created by Windward Studios. The game received very high rankings in video game magazines, but the publisher went out of business shortly after the game's release; the developer then sold the game exclusively from its website.
+<\doc>
+<doc id="63993517" title="Escaped Chasm">
+Escaped Chasm is a 2019 freeware indie game developed and self-published by Undertale artist Temmie Chang as her video game debut. Escaped Chasm was released on her birthday on game site Itch.io. The game is a prequel to the short film Dwellers of the Mountain's Forest by herself and uses the RPG Maker game engine. The length of the game is about 45 minutes long with four endings. It received positive reviews from critics and praise for its emotional themes and artistic design. It has a high score on the original release website, Itch.io.
+<\doc>
+<doc id="27215901" title="Every Day the Same Dream">
+Every Day the Same Dream (stylised in title case) is a short, 2D art game that puts the player in the role of a man whose life is about to change. Developed for the Experimental Gameplay Project in 2009, the game has been described as "a beautiful game with a very bleak outlook." Italian creator Paolo Pedercini claims it is "a short existential game about alienation and refusal of labor." It has been compared to Passage by Jason Rohrer and Don't Look Back by Terry Cavanagh in that it is "an interesting, potentially fascinating experience." The game is offered as freeware under the Creative Commons license CC BY-NC-SA 2.5.
+<\doc>
+<doc id="2690649" title="Every Extend">
+Every Extend is series of puzzle shoot 'em up video games primarily developed by Q Entertainment. The series began with a 2004 freeware game  of the same name (also known as E2) for Windows, which was a personal project by Kanta Matsuhisa under the "Omega" pseudonym. Q Entertainment discovered the game online and approached Matshisa to develop a remix version. The remix version was developed for the PlayStation Portable and was released in 2006, titled Every Extend Extra (or E3). In 2007, Q Entertainment developed and released a sequel on the Xbox 360 titled Every Extend Extra Extreme (or E4).
+<\doc>
+<doc id="33584825" title="Exploit (video game)">
+Exploit is a Flash browser game by Gregory Weir. It was published in December 2008. As of October 2011, Exploit has been played over 700,000 times.
+<\doc>
+<doc id="21722198" title="The Fancy Pants Adventures">
+Fancy Pants Adventures is a series of free side-scrolling Flash games created by American developer Brad Borne. Four worlds have been released so far. World 1 was released on March 14, 2006 and World 2 was released on January 9, 2008. After the 2009 Comic-Con, Borne announced he would officially start working on World 3. It was released on April 5, 2012.  A console version developed by Borne and Over the Top Games was released by EA 2D for PlayStation Network and Xbox Live Arcade on April 19 and April 20, 2011, respectively. An iOS version developed by Chillingo, Over the Top Games and Borne Games was released on the Apple App Store on March 4, 2012. Some years later, Brad Borne made a fourth entry, Super Fancy Pants Adventures, and it implies in its ending scene after defeating the final boss that it is "To be continued". Two years after the release of the game, Brad posted World 4 on Newgrounds. World 4 was Super Fancy Pants Adventures, just ported to Adobe Flash. Right now, there are two parts of the game available on Newgrounds.
+
+
+<\doc>
+<doc id="6583377" title="Fate: Gates of Dawn">
+Fate: Gates of Dawn is a role-playing video game released by reLINE Software in 1991 for the Commodore Amiga and in 1992 for the Atari ST.
+<\doc>
+<doc id="1300073" title="Flight of the Amazon Queen">
+Flight of the Amazon Queen is a graphical point-and-click adventure game by Interactive Binary Illusions originally released in 1995 for Amiga (using AMOS) and MS-DOS (using C), and re-released as freeware in 2004 for use with ScummVM. Its gameplay is very similar in style to many of LucasArts' popular point-and-click adventures of the 1990s, and was inspired by Monkey Island and Indiana Jones and the Last Crusade: The Graphic Adventure.
+
+
+<\doc>
+<doc id="5970645" title="Flow (video game)">
+Flow (stylized as flOw) is an independent video game created by Jenova Chen and Nicholas Clark. Originally released as a free Flash game in 2006 to accompany Chen's master's thesis, it was reworked into a 2007 PlayStation 3 game by his development studio, Thatgamecompany. SuperVillain Studios developed a PlayStation Portable version of the game in 2008, and PlayStation 4 and PlayStation Vita versions in 2013. In Flow, the player navigates a series of two-dimensional (2D) planes with an aquatic microorganism that evolves by consuming other microorganisms. The game's design is based on Chen's research into dynamic difficulty adjustment at the University of Southern California's Interactive Media Division, and on psychologist Mihaly Csikszentmihalyi's theoretical concept of mental immersion or flow.
+The Flash version of Flow received 100,000 downloads within its first two weeks of release, and had been played over 3.5 million times by 2008. Its PlayStation 3 re-release was the most downloaded game on the PlayStation Network in 2007 and won the Best Downloadable Game award at the 2008 Game Developers Choice Awards. It was nominated for awards by the Academy of Interactive Arts & Sciences and the British Academy of Film and Television Arts (BAFTA). Reviewers praised Flow's visual and audio appeal, but noted the simplicity of its gameplay; several considered it to be more of an art piece than a game.
+<\doc>
+<doc id="1995536" title="Food Force">
+Food Force is an educational game published by the United Nations World Food Programme (WFP) in 2005. Due to its content, it is considered a serious game (game with educational purpose).  Players take on missions to distribute food in a famine-affected country and to help it to recover and become self-sufficient again. At the same time they learn about hunger in the real world and the WFP's work to prevent it.
+In 2011, a new, socially interactive game was launched in November by the World Food Programme in partnership with Konami. The game, which takes place entirely on Facebook, is amongst the first games ever to feature a real world impact through virtual goods.
+<\doc>
+<doc id="581580" title="The Fool's Errand">
+The Fool's Errand is a 1987 computer game by Cliff Johnson. It is a meta-puzzle game with storytelling, visual puzzles and a cryptic treasure map. It is the tale of a wandering Fool who seeks his fortune in the Land of Tarot and braves the enchantments of the High Priestess.
+A sequel titled The Fool and His Money was released October 25, 2012.
+<\doc>
+<doc id="3312994" title="Football Glory">
+Football Glory (Fußball Total! in German-speaking countries) is a 1994 football video game developed by Croteam and published by Black Legend that became famous due to the many similarities with Sensible Software's Sensible Soccer. It was released for both IBM compatibles and Commodore Amiga, and later peaked as high as second in the Amiga sales chart.
+In essence a clone of Sensible Soccer, Football Glory was a more laid back, and at points, a much more comical approach: apart from several new features such as overhead and heel kicks, it included several seemingly unrelated animations (including female streakers and hooligans with assorted police officers chasing them, toilet paper and firecrackers thrown to the field by the audience after a goal, and cartoon-like talking bubbles after a referee decision, after which the player was allowed to chase the referee), and various other little amusing touches, such as the snow-ridden field having a snowman as a corner flag and icicles hanging down from the crossbar.
+In 1998, Croteam released Football Glory as freeware.
+<\doc>
+<doc id="5017064" title="List of free massively multiplayer online games">
+This is a selected list of notable massively multiplayer online games which are free-to-play in some form without ever requiring a subscription or other payment. These are commonly MMORPGs or MMOFPSs, but could be of any genre.
+
+
+<\doc>
+<doc id="6265996" title="Frets on Fire">
+Frets on Fire (FoF) is a free, open-source music video game created by Finnish independent video game developer Unreal Voodoo. Players use the keyboard to play along with markers which appear on screen, with the aim to score points, achieve a high point multiplier, and complete a song. Frets on Fire was the winner of the Assembly 2006 game development competition.
+
+
+<\doc>
+<doc id="24991555" title="Future Pinball">
+Future Pinball is a freeware 3D pinball editing and gaming application for Microsoft Windows. The software is similar to Visual Pinball ("VP") and other modern pinball simulation applications.  As with VP's relationship with "vPinMAME," Future Pinball ("FP") uses partner applications to emulate original pinball ROM code.  In FP's case, ROM code is emulated by Better Arcade Mode ("BAM") directly, or via other tools, such as "Pinball Browser." Future Pinball was discontinued in 2010 by the original author Christopher Leathley, but in 2013, development was resumed via BAM, by its author, Rafal Janicki.  BAM features many new developments, such as enhanced physics, optics, and virtual reality support.
+<\doc>
+<doc id="23459660" title="GeneRally">
+GeneRally is a freeware racing game originally developed by brothers Hannu and Jukka Räbinä  from Finland. Although it features a 3D graphics engine, GeneRally has a top-down perspective, where you can see all the cars (which is perfect for multiplayer races). Its art design calls to mind older arcade racing games such as Super Sprint and Slicks 'N' Slide. PCGamer, in an issue about free PC games, described it as "A minimalist Micro Machines".
+<\doc>
+<doc id="27478533" title="Genetos">
+"GENETOS" is a freeware vertical shooter game or "shoot 'em up" developed and published by Tatsuya Koyama with an "evolution" theme. In GENETOS, the levels represent different generations in the evolution of shooting games.
+The video game was developed entirely by Tatsuya Koyama who provided the graphics, programming and music, creating GENETOS entirely himself. GENETOS is free to download from Tatsuya Koyama's personal website, downloadable in either Japanese or English from the corresponding page.
+<\doc>
